@@ -1,0 +1,15 @@
+console.log(`Firmware Scraper v2.1`);
+console.log(`\nSupported brands (curated to match https://immaculate.eu.cc/tr/markalar):`);
+console.log(`  samsung, xiaomi, redmi, huawei, honor, oppo, vivo, realme, oneplus,`);
+console.log(`  google, motorola, lenovo, sony, asus, nokia, tecno, infinix, tcl,`);
+console.log(`  zte, nubia, meizu, general-mobile, casper, vestel, tools`);
+console.log(`\nUsage:`);
+console.log(`  node fetch_roms.js                      # scrape all 25 brands`);
+console.log(`  node fetch_roms.js oppo vivo            # scrape specific brands`);
+console.log(`  node fetch_roms.js --depth 10           # limit device count per brand`);
+console.log(`  node fetch_roms.js --out-dir ./feeds    # specify output directory`);
+console.log(`\nOutput per brand:`);
+console.log(`  roms_<brand>.json   - structured metadata`);
+console.log(`  rss_<brand>.xml     - RSS feed with direct download links`);
+console.log(`  roms_all.json       - combined metadata`);
+console.log(`  rss_all.xml         - combined RSS feed`);
