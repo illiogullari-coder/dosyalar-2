@@ -484,6 +484,30 @@
     },
     {
       "brand": "Huawei",
+      "deviceName": "Huawei Mate 40E Pro NOH-AN80 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an80",
+      "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.91 GB",
+      "date": "2026-02-11",
+      "firmwareVersion": "102.0.0.278",
+      "description": "Download the official Huawei Mate 40E Pro NOH-AN80 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+    },
+    {
+      "brand": "Huawei",
+      "deviceName": "Huawei Enjoy 60 MGA-AL40 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-enjoy-60-mga-al40",
+      "googleDriveUrl": "https://drive.google.com/file/d/1B8Pu4PyWVwOM9bRLZIBgDXGwtMP_Jagc/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1B8Pu4PyWVwOM9bRLZIBgDXGwtMP_Jagc&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.51 GB",
+      "date": "2026-01-31",
+      "firmwareVersion": "103.0.0.106",
+      "description": "Download the official Huawei Enjoy 60 MGA-AL40 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
+    },
+    {
+      "brand": "Huawei",
       "deviceName": "Huawei Watch GT 3 Active Jupiter-B29S Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/huawei-watch-gt-3-active-jupiter-b29s",
       "googleDriveUrl": "https://drive.google.com/file/d/16EIburWyOhelHVhTXnALjOQkd-ZDsITK/view?usp=sharing",
@@ -565,30 +589,6 @@
       "date": "2025-11-07",
       "firmwareVersion": "4.0.0.131",
       "description": "Download the official Huawei Nova 11 SE BNE-AL00X Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei MediaPad T3 10 BZA-W00 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-mediapad-t3-10-bza-w00",
-      "googleDriveUrl": "https://drive.google.com/file/d/1ja59r07quaAeZ4i5n4gdMFkIbxMlCTkL/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1ja59r07quaAeZ4i5n4gdMFkIbxMlCTkL&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1.97 GB",
-      "date": "2025-11-06",
-      "firmwareVersion": "",
-      "description": "Download the official Huawei MediaPad T3 10 BZA-W00 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei MediaPad C1 BZA-W00 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-mediapad-c1-bza-w00",
-      "googleDriveUrl": "https://drive.google.com/file/d/1_dRY8sF1eh-s-BMpJ8AIRYgCMpTX-G6b/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_dRY8sF1eh-s-BMpJ8AIRYgCMpTX-G6b&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1.97 GB",
-      "date": "2025-11-06",
-      "firmwareVersion": "",
-      "description": "Download the official Huawei MediaPad C1 BZA-W00 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
     }
   ]
 }
