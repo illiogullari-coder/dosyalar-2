@@ -5,6 +5,30 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-R890 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-r890",
+        "googleDriveUrl": "https://drive.google.com/file/d/1NKmrPBGLuo7ymxT3yEDUutKs10Xt6l1t/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1NKmrPBGLuo7ymxT3yEDUutKs10Xt6l1t&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.01 GB",
+        "date": "2026-08-25",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-T818A Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
+        "deviceName": "Samsung SM-R880 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-r880",
+        "googleDriveUrl": "https://drive.google.com/file/d/11-U99WKZVrNgFUBt6FLsEL6raH68lAkx/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=11-U99WKZVrNgFUBt6FLsEL6raH68lAkx&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3 GB",
+        "date": "2026-08-25",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-T818A Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-R925U Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-r925u",
         "googleDriveUrl": "https://drive.google.com/file/d/1_e862wlaZezEjLANTrBQBmSNvOYckCbE/view?usp=drive_link",
@@ -455,30 +479,6 @@
         "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1zg6Qf5mPbDet9tHGFSLiLGcsNNsSxN3w&export=download&confirm=t",
         "linkSource": "googledrive",
         "fileSize": "18.12 GB",
-        "date": "2026-07-15",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-S947Q Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-s947q",
-        "googleDriveUrl": "https://drive.google.com/file/d/14KhlGeV9A3wsQaTlnM3QEdimlchY6o5v/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=14KhlGeV9A3wsQaTlnM3QEdimlchY6o5v&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "17.4 GB",
-        "date": "2026-07-15",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-S947Z Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-s947z",
-        "googleDriveUrl": "https://drive.google.com/file/d/1IUCvxensVBUlijI8KNkY0JEQeum_jmg2/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1IUCvxensVBUlijI8KNkY0JEQeum_jmg2&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "17.74 GB",
         "date": "2026-07-15",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
@@ -5837,6 +5837,18 @@
     "brand": "tecno",
     "brandName": "Tecno",
     "files": [
+      {
+        "brand": "Tecno",
+        "deviceName": "Tecno Camon Slim CN6C Stock ROM Firmware (Flash File)",
+        "deviceUrl": "https://naijarom.com/tecno-camon-slim-cn6c",
+        "googleDriveUrl": "https://drive.google.com/file/d/1Heyl2MQ3Kla2yLi8IWS9KDsiKhzAjntP/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Heyl2MQ3Kla2yLi8IWS9KDsiKhzAjntP&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "10.72 GB",
+        "date": "2026-08-25",
+        "firmwareVersion": "16.3.0.130SP06",
+        "description": "Download Tecno Camon Slim CN6C Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+      },
       {
         "brand": "Tecno",
         "deviceName": "Tecno MegaPad SE 2 T1002W Stock ROM Firmware (Flash File)",
