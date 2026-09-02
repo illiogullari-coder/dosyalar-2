@@ -484,6 +484,18 @@
     },
     {
       "brand": "Infinix",
+      "deviceName": "Infinix Smart 10 X6725 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/infinix-smart-10-x6725",
+      "googleDriveUrl": "https://drive.google.com/file/d/1duXfC8YgAwyZ_dWCuanGd2toTnLIJxpK/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1duXfC8YgAwyZ_dWCuanGd2toTnLIJxpK&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.94 GB",
+      "date": "2025-07-16",
+      "firmwareVersion": "15.1.0.115SP02",
+      "description": "Download the official Infinix Smart 10 X6725 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+    },
+    {
+      "brand": "Infinix",
       "deviceName": "Infinix Note 50 Pro Plus X6856 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/infinix-note-50-pro-plus-x6856",
       "googleDriveUrl": "https://drive.google.com/file/d/1uMkoF4spYDtTfhzodF-Y3ffNGm2Kg-eF/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2025-05-03",
       "firmwareVersion": "15.0.2.115SP02",
       "description": "Download the official Infinix Note 50 X6858 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-    },
-    {
-      "brand": "Infinix",
-      "deviceName": "Infinix Hot 50 5G X6720 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/infinix-hot-50-5g-x6720",
-      "googleDriveUrl": "https://drive.google.com/file/d/1XpRs5RdHRf_Td3v9UIv84xMCYqqQTG4g/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1XpRs5RdHRf_Td3v9UIv84xMCYqqQTG4g&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.89 GB",
-      "date": "2024-12-24",
-      "firmwareVersion": "",
-      "description": "Download the official Infinix Hot 50 5G X6720 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
     }
   ]
 }

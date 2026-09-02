@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Tecno",
+      "deviceName": "Tecno Spark Go 3 Pro KO3 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-go-3-pro-ko3",
+      "googleDriveUrl": "https://drive.google.com/file/d/1-nljDzCbF9MPIgO4IQXpEYnjhVMkVYQg/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1-nljDzCbF9MPIgO4IQXpEYnjhVMkVYQg&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.37 GB",
+      "date": "2026-09-01",
+      "firmwareVersion": "16.3.0.140SP10",
+      "description": "Download Tecno Camon 15 Air CD6S Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
       "deviceName": "Tecno Camon Slim CN6C Stock ROM Firmware (Flash File)",
       "deviceUrl": "https://naijarom.com/tecno-camon-slim-cn6c",
       "googleDriveUrl": "https://drive.google.com/file/d/1Heyl2MQ3Kla2yLi8IWS9KDsiKhzAjntP/view?usp=sharing",
@@ -553,18 +565,6 @@
       "date": "2025-07-23",
       "firmwareVersion": "15.1.1.103SP18",
       "description": "Download the Tecno Spark 40 Pro KM5 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
-    },
-    {
-      "brand": "Tecno",
-      "deviceName": "Tecno Spark 40 Pro Plus KM7 Stock ROM Firmware (Flash File)",
-      "deviceUrl": "https://naijarom.com/tecno-spark-40-pro-plus-km7",
-      "googleDriveUrl": "https://drive.google.com/file/d/12O15b3WfKFe9EU-kYHIUSJ_pUwjJq6bD/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=12O15b3WfKFe9EU-kYHIUSJ_pUwjJq6bD&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "8 GB",
-      "date": "2025-07-23",
-      "firmwareVersion": "15.1.1.108SP02",
-      "description": "Download the Tecno Spark 40 Pro Plus KM7 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
     }
   ]
 }
