@@ -6409,6 +6409,18 @@
     "files": [
       {
         "brand": "Infinix",
+        "deviceName": "Infinix Hot 70 X6895B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/infinix-hot-70-x6895b",
+        "googleDriveUrl": "https://drive.google.com/file/d/1hn_EV-Uo8A2RjZeG00rUXNJWzsOS_95i/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1hn_EV-Uo8A2RjZeG00rUXNJWzsOS_95i&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "9.45 GB",
+        "date": "2026-09-03",
+        "firmwareVersion": "16.2.0.120SP13",
+        "description": "Download the official Infinix Hot 70 X6895B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+      },
+      {
+        "brand": "Infinix",
         "deviceName": "Infinix Xpad 30 Pro X1103 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/infinix-xpad-30-pro-x1103",
         "googleDriveUrl": "https://drive.google.com/file/d/16RO3c7pNPRwnmAMo5nVyLMw3YOcEslfF/view?usp=sharing",
@@ -6982,18 +6994,6 @@
         "date": "2025-05-03",
         "firmwareVersion": "15.0.2.116",
         "description": "Download the official Infinix Note 50 Pro X6855 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-      },
-      {
-        "brand": "Infinix",
-        "deviceName": "Infinix Note 50 X6858 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/infinix-note-50-x6858",
-        "googleDriveUrl": "https://drive.google.com/file/d/1jexUGGnEVZMd1nHrl_Gd2luF2DnY3_5C/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1jexUGGnEVZMd1nHrl_Gd2luF2DnY3_5C&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.41 GB",
-        "date": "2025-05-03",
-        "firmwareVersion": "15.0.2.115SP02",
-        "description": "Download the official Infinix Note 50 X6858 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
       }
     ]
   },
@@ -7933,6 +7933,54 @@
       },
       {
         "brand": "ZTE",
+        "deviceName": "ZTE Blade V890 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-v890",
+        "googleDriveUrl": "https://drive.google.com/file/d/1iM8pm_S2tq5xHBeTDWohDGjm7rVUp2SB/view",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iM8pm_S2tq5xHBeTDWohDGjm7rVUp2SB&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "2.90 GB",
+        "date": "2024-11-22",
+        "firmwareVersion": "8.1.0",
+        "description": "Download the official ZTE Blade V890 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Small Fresh 4 BV0701 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-small-fresh-4-bv0701",
+        "googleDriveUrl": "https://drive.google.com/file/d/1CUeKU9_0iEFUcbFPtKt03HaxkJjJPdVb/view",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1CUeKU9_0iEFUcbFPtKt03HaxkJjJPdVb&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "631 MB",
+        "date": "2024-11-22",
+        "firmwareVersion": "6.0",
+        "description": "Download the official ZTE Small Fresh 4 BV0701 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Xiaoxian 4 BV0701 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-xiaoxian-4-bv0701",
+        "googleDriveUrl": "https://drive.google.com/file/d/129u3-sUhFWvYbH02S_TSHmdaU1w3svFf/view",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=129u3-sUhFWvYbH02S_TSHmdaU1w3svFf&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.63 GB",
+        "date": "2024-11-22",
+        "firmwareVersion": "6.0",
+        "description": "Download the official ZTE Xiaoxian 4 BV0701 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Blade A33S Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a33s",
+        "googleDriveUrl": "https://drive.google.com/file/d/1iA-VfbDoRzghp0m8YLe6SFK5NDuFNcZJ/view",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iA-VfbDoRzghp0m8YLe6SFK5NDuFNcZJ&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "1.52 GB",
+        "date": "2024-11-16",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade A33S Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
+      },
+      {
+        "brand": "ZTE",
         "deviceName": "ZTE Blade V60 Design Z2350 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/zte-blade-v60-design-z2350",
         "googleDriveUrl": "https://drive.google.com/file/d/1iT0Fsk5Sv4tL_tnDozscGRwBM8NzwnNz/view",
@@ -7949,6 +7997,30 @@
     "brand": "nubia",
     "brandName": "Nubia",
     "files": [
+      {
+        "brand": "Nubia",
+        "deviceName": "Nubia Neo 3 Z2464N Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/nubia-neo-3-z2464n",
+        "googleDriveUrl": "https://drive.google.com/file/d/1mXRQnGjgOT9w4RyDNH46rP9nfiRKtKWF/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1mXRQnGjgOT9w4RyDNH46rP9nfiRKtKWF&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.61 GB",
+        "date": "2026-09-03",
+        "firmwareVersion": "",
+        "description": "Download the official Nubia Neo 3 GT 5G Z2465N Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware."
+      },
+      {
+        "brand": "Nubia",
+        "deviceName": "Nubia Neo 3 GT 5G Z2465N Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/nubia-neo-3-gt-5g-z2465n",
+        "googleDriveUrl": "https://drive.google.com/file/d/1vG4R45nvLnjeV6StIfOPb9zshnGmX_WC/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1vG4R45nvLnjeV6StIfOPb9zshnGmX_WC&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.71 GB",
+        "date": "2026-09-03",
+        "firmwareVersion": "",
+        "description": "Download the official Nubia Neo 3 GT 5G Z2465N Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware."
+      },
       {
         "brand": "Nubia",
         "deviceName": "Nubia V70 Design Z2458 Stock Firmware ROM (Flash File)",
