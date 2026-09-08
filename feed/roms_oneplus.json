@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "OnePlus",
+      "deviceName": "OnePlus Pad Lite OPD2481 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/oneplus-pad-lite-opd2481",
+      "googleDriveUrl": "https://drive.google.com/file/d/1eVcmJQRElan-wVGKwD3LtD0EL2RGvxEK/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1eVcmJQRElan-wVGKwD3LtD0EL2RGvxEK&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.17 GB",
+      "date": "2026-09-07",
+      "firmwareVersion": "15.0.1.800EX01",
+      "description": "Download the official OnePlus Pad Go 2 OPD2504 Stock Firmware ROM (Flash File) for your OnePlus Smartphone. We also provide all OnePlus Stock Firmware for free."
+    },
+    {
+      "brand": "OnePlus",
       "deviceName": "OnePlus Pad Go 2 OPD2504 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/oneplus-pad-go-2-opd2504",
       "googleDriveUrl": "https://drive.google.com/file/d/1_R_9ESLdvORPb-9Ygwu-Oa5KP5cgIH7i/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2025-06-25",
       "firmwareVersion": "15.0.2.103EX01",
       "description": "Download the official OnePlus 13T CPH2723 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
-    },
-    {
-      "brand": "OnePlus",
-      "deviceName": "OnePlus Nord N30 CPH2465 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/oneplus-nord-n30-cph2465",
-      "googleDriveUrl": "https://drive.google.com/file/d/1yYee06GP4-ULJ9yHKbuYhxpjCbBHgmzo/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1yYee06GP4-ULJ9yHKbuYhxpjCbBHgmzo&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "9.12 GB",
-      "date": "2025-06-25",
-      "firmwareVersion": "14.0.0.302EX01",
-      "description": "Download the official OnePlus Nord N30 CPH2465 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
     }
   ]
 }

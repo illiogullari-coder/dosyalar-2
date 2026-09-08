@@ -3568,6 +3568,18 @@
     "files": [
       {
         "brand": "OnePlus",
+        "deviceName": "OnePlus Pad Lite OPD2481 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/oneplus-pad-lite-opd2481",
+        "googleDriveUrl": "https://drive.google.com/file/d/1eVcmJQRElan-wVGKwD3LtD0EL2RGvxEK/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1eVcmJQRElan-wVGKwD3LtD0EL2RGvxEK&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.17 GB",
+        "date": "2026-09-07",
+        "firmwareVersion": "15.0.1.800EX01",
+        "description": "Download the official OnePlus Pad Go 2 OPD2504 Stock Firmware ROM (Flash File) for your OnePlus Smartphone. We also provide all OnePlus Stock Firmware for free."
+      },
+      {
+        "brand": "OnePlus",
         "deviceName": "OnePlus Pad Go 2 OPD2504 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/oneplus-pad-go-2-opd2504",
         "googleDriveUrl": "https://drive.google.com/file/d/1_R_9ESLdvORPb-9Ygwu-Oa5KP5cgIH7i/view?usp=sharing",
@@ -4141,18 +4153,6 @@
         "date": "2025-06-25",
         "firmwareVersion": "15.0.2.103EX01",
         "description": "Download the official OnePlus 13T CPH2723 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
-      },
-      {
-        "brand": "OnePlus",
-        "deviceName": "OnePlus Nord N30 CPH2465 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/oneplus-nord-n30-cph2465",
-        "googleDriveUrl": "https://drive.google.com/file/d/1yYee06GP4-ULJ9yHKbuYhxpjCbBHgmzo/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1yYee06GP4-ULJ9yHKbuYhxpjCbBHgmzo&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "9.12 GB",
-        "date": "2025-06-25",
-        "firmwareVersion": "14.0.0.302EX01",
-        "description": "Download the official OnePlus Nord N30 CPH2465 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
       }
     ]
   },
@@ -7561,6 +7561,30 @@
     "files": [
       {
         "brand": "ZTE",
+        "deviceName": "ZTE Blade A56 Z2473 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a56-z2473",
+        "googleDriveUrl": "https://drive.google.com/file/d/1t2pWgBbs3WD2VpNklPFX92AAoIvhla3M/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1t2pWgBbs3WD2VpNklPFX92AAoIvhla3M&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.98 GB",
+        "date": "2026-09-07",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade V70 Max Z2467 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Blade A36 Z2472 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a36-z2472",
+        "googleDriveUrl": "https://drive.google.com/file/d/1bfoqqU1cYQfbXzimCD9H7zbS7Rjgj48Q/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1bfoqqU1cYQfbXzimCD9H7zbS7Rjgj48Q&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.88 GB",
+        "date": "2026-09-07",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade V70 Max Z2467 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
         "deviceName": "ZTE Blade V70 Max Z2467 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/zte-blade-v70-max-z2467",
         "googleDriveUrl": "https://drive.google.com/file/d/1i_ckFNxGAjQb_NuQfcBiPlkVlwptl2xR/view?usp=sharing",
@@ -8021,6 +8045,30 @@
     "brand": "nubia",
     "brandName": "Nubia",
     "files": [
+      {
+        "brand": "Nubia",
+        "deviceName": "Nubia A56 Z2473 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/nubia-a56-z2473",
+        "googleDriveUrl": "https://drive.google.com/file/d/1t2pWgBbs3WD2VpNklPFX92AAoIvhla3M/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1t2pWgBbs3WD2VpNklPFX92AAoIvhla3M&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.98 GB",
+        "date": "2026-09-07",
+        "firmwareVersion": "",
+        "description": "Download the official Nubia A56 Z2473 Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware."
+      },
+      {
+        "brand": "Nubia",
+        "deviceName": "Nubia Blade A36 Z2472 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/nubia-blade-a36-z2472",
+        "googleDriveUrl": "https://drive.google.com/file/d/1bfoqqU1cYQfbXzimCD9H7zbS7Rjgj48Q/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1bfoqqU1cYQfbXzimCD9H7zbS7Rjgj48Q&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.88 GB",
+        "date": "2026-09-07",
+        "firmwareVersion": "",
+        "description": "Download the official Nubia Blade A36 Z2472 Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware."
+      },
       {
         "brand": "Nubia",
         "deviceName": "Nubia V70 Max Z2467 Stock Firmware ROM (Flash File)",
