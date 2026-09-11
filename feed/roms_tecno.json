@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "Tecno",
+      "deviceName": "Tecno Spark 50 Pro KO5 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-50-pro-ko5",
+      "googleDriveUrl": "https://drive.google.com/file/d/1ImS7_RQK7-CRxSpsgIwHtSP1cwsW2TgZ/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1ImS7_RQK7-CRxSpsgIwHtSP1cwsW2TgZ&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "8.65 GB",
+      "date": "2026-09-10",
+      "firmwareVersion": "16.2.0.130SP05",
+      "description": "Download Tecno Camon Slim CN6C Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark Go 3 Pro KO3 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-go-3-pro-ko3",
+      "googleDriveUrl": "https://drive.google.com/file/d/1-nljDzCbF9MPIgO4IQXpEYnjhVMkVYQg/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1-nljDzCbF9MPIgO4IQXpEYnjhVMkVYQg&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.37 GB",
+      "date": "2026-09-01",
+      "firmwareVersion": "16.3.0.140SP10",
+      "description": "Download Tecno Camon 15 Air CD6S Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
       "deviceName": "Tecno Camon Slim CN6C Stock ROM Firmware (Flash File)",
       "deviceUrl": "https://naijarom.com/tecno-camon-slim-cn6c",
       "googleDriveUrl": "https://drive.google.com/file/d/1Heyl2MQ3Kla2yLi8IWS9KDsiKhzAjntP/view?usp=sharing",
@@ -49,6 +73,18 @@
       "date": "2026-08-17",
       "firmwareVersion": "",
       "description": "Download Tecno Camon 12 Air CC6 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Megapad SE 2 T1002 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-megapad-se-2-t1002",
+      "googleDriveUrl": "https://drive.google.com/file/d/1EeDFoXebl3KzlT-qZmRN7rtoiwBXxZj6/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1EeDFoXebl3KzlT-qZmRN7rtoiwBXxZj6&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "6.35 GB",
+      "date": "2026-08-05",
+      "firmwareVersion": "16.3.0.125SP02",
+      "description": "Download Tecno Megapad 2 T1103 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
     },
     {
       "brand": "Tecno",
@@ -112,6 +148,30 @@
     },
     {
       "brand": "Tecno",
+      "deviceName": "Tecno Camon 50 Pro 5G CN7C Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-camon-50-pro-5g-cn7c",
+      "googleDriveUrl": "https://drive.google.com/file/d/1reaOLh67UVNDx2ttx9Ne1GoB6aO5WOgU/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1reaOLh67UVNDx2ttx9Ne1GoB6aO5WOgU&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "11.48 GB",
+      "date": "2026-07-03",
+      "firmwareVersion": "16.1.0.142SP10",
+      "description": "Download Tecno Camon 50 Ultra 5G CN7C Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark Go 3 KN3 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-go-3-kn3",
+      "googleDriveUrl": "https://drive.google.com/file/d/17MMEx2S3HCwO2iUUyxn4ZNvi4a4KS8RE/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=17MMEx2S3HCwO2iUUyxn4ZNvi4a4KS8RE&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.63 GB",
+      "date": "2026-07-02",
+      "firmwareVersion": "15.1.2.175SP07",
+      "description": "Download Tecno Pop 20 KN3 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
       "deviceName": "Tecno Pova 8 5G LK6 Stock ROM Firmware (Flash File)",
       "deviceUrl": "https://naijarom.com/tecno-pova-8-5g-lk6",
       "googleDriveUrl": "https://drive.google.com/file/d/1tTJ_9xLtYLe9DT5hxlNtWcVfShaaLWBN/view?usp=sharing",
@@ -145,6 +205,18 @@
       "date": "2026-04-15",
       "firmwareVersion": "16.1.0.150SP14",
       "description": "Download Tecno Camon 50 4G CN5 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Camon 50 Pro 4G CN5C Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-camon-50-pro-4g-cn5c",
+      "googleDriveUrl": "https://drive.google.com/file/d/1MT45LLYcASADlJrRIye2wk3M1akRcirA/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1MT45LLYcASADlJrRIye2wk3M1akRcirA&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "11.80 GB",
+      "date": "2026-04-15",
+      "firmwareVersion": "16.1.0.150SP14",
+      "description": "Download Tecno Camon 50 Pro 4G CN5C Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
     },
     {
       "brand": "Tecno",
@@ -193,6 +265,18 @@
       "date": "2026-02-16",
       "firmwareVersion": "16.1.0.110SP23",
       "description": "Download Tecno Camon 50 Pro CN5C Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pova Curve 2 5G LK7K Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pova-curve-2-5g-lk7k",
+      "googleDriveUrl": "https://drive.google.com/file/d/1pAw4Sz6gsgJWeY42be9An51O3RJk6VoE/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1pAw4Sz6gsgJWeY42be9An51O3RJk6VoE&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "9 GB",
+      "date": "2026-01-24",
+      "firmwareVersion": "16.1.0.115SP12",
+      "description": "Download Tecno Pova Curve 2 5G LK7K Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
     },
     {
       "brand": "Tecno",
@@ -373,6 +457,114 @@
       "date": "2025-08-14",
       "firmwareVersion": "15.1.0.123",
       "description": "Download Tecno Pova 7 LJ6 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pova 7 Neo LJ6 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pova-7-neo-lj6",
+      "googleDriveUrl": "https://drive.google.com/file/d/1dOSgHpWIPKeXiyAQNnnQAiauNGaXO2Xa/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1dOSgHpWIPKeXiyAQNnnQAiauNGaXO2Xa&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.13 GB",
+      "date": "2025-08-14",
+      "firmwareVersion": "15.1.0.123",
+      "description": "Download Tecno Pova 7 Neo LJ6 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pova 7 Pro 5G LJ8 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pova-7-pro-5g-lj8",
+      "googleDriveUrl": "https://drive.google.com/file/d/1eB5vUcokuO8EeCiTl0Hsg57eH0X7cCN_/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1eB5vUcokuO8EeCiTl0Hsg57eH0X7cCN_&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.39 GB",
+      "date": "2025-08-11",
+      "firmwareVersion": "15.1.0.139",
+      "description": "Download the Tecno Pova 7 Pro 5G LJ8 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pova Curve 5G LJ8K Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pova-curve-5g-lj8k",
+      "googleDriveUrl": "https://drive.google.com/file/d/1n8lRj_OrYQkL2NkmxBG2Ju7zfRLQqYg-/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1n8lRj_OrYQkL2NkmxBG2Ju7zfRLQqYg-&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "6.53 GB",
+      "date": "2025-08-11",
+      "firmwareVersion": "15.1.0.103SP06",
+      "description": "Download the Tecno Pova Curve 5G LJ8K Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark 40 Pro KM6 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-40-pro-km6",
+      "googleDriveUrl": "https://drive.google.com/file/d/1d85D-XZsMPYKfP2FR8-4m7ZFUf4mGx46/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d85D-XZsMPYKfP2FR8-4m7ZFUf4mGx46&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "8.14 GB",
+      "date": "2025-08-11",
+      "firmwareVersion": "15.1.1.107SP10",
+      "description": "Download the Tecno Spark 40 Pro KM6 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark 40C KM4K Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-40c-km4k",
+      "googleDriveUrl": "https://drive.google.com/file/d/1MZTfxmuIOtLSf0eMJk0ysYv52n6doThQ/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1MZTfxmuIOtLSf0eMJk0ysYv52n6doThQ&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.39 GB",
+      "date": "2025-08-11",
+      "firmwareVersion": "15.1.1.106SP30",
+      "description": "Download the Tecno Spark 40C KM4K Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark Go 2S KM4 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-go-2s-km4",
+      "googleDriveUrl": "https://drive.google.com/file/d/1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.80 GB",
+      "date": "2025-08-07",
+      "firmwareVersion": "15.1.0.105SP09",
+      "description": "Download the Tecno Spark Go 2S KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Spark Go 2 KM4 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-spark-go-2-km4",
+      "googleDriveUrl": "https://drive.google.com/file/d/1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.80 GB",
+      "date": "2025-08-07",
+      "firmwareVersion": "15.1.0.105SP09",
+      "description": "Download the Tecno Spark Go 2 KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pop 10 KM4 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pop-10-km4",
+      "googleDriveUrl": "https://drive.google.com/file/d/1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.8 GB",
+      "date": "2025-08-07",
+      "firmwareVersion": "15.1.0.105SP09",
+      "description": "Download the Tecno Pop 10 KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
+    },
+    {
+      "brand": "Tecno",
+      "deviceName": "Tecno Pop 10 Pro KM4 Stock ROM Firmware (Flash File)",
+      "deviceUrl": "https://naijarom.com/tecno-pop-10-pro-km4",
+      "googleDriveUrl": "https://drive.google.com/file/d/1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.80 GB",
+      "date": "2025-08-07",
+      "firmwareVersion": "15.1.0.105SP09",
+      "description": "Download the Tecno Pop 10 Pro KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
     }
   ]
 }

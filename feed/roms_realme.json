@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Realme",
+      "deviceName": "Realme P4 Lite 5G RMX5261 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/realme-p4-lite-5g-rmx5261",
+      "googleDriveUrl": "https://drive.google.com/file/d/1adNnl5kNWxukWBBkS9_n0I1oVHCJLwgY/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1adNnl5kNWxukWBBkS9_n0I1oVHCJLwgY&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.37 GB",
+      "date": "2026-09-10",
+      "firmwareVersion": "16.0.2.422EX01",
+      "description": "Download the official Realme 16 5G RMX5171 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Mobile Stock Firmware."
+    },
+    {
+      "brand": "Realme",
       "deviceName": "Realme C100X RMX5366 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/realme-c100x-rmx5366",
       "googleDriveUrl": "https://drive.google.com/file/d/1sMmorkR6jfnhpug2g0oiHfnU6umKrLnl/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2025-07-04",
       "firmwareVersion": "15.0.0.900EX01",
       "description": "Download the official Realme 14 Pro Plus 5G RMX5054 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Stock Firmware."
-    },
-    {
-      "brand": "Realme",
-      "deviceName": "Realme 14T 5G RMX5074 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/realme-14t-5g-rmx5074",
-      "googleDriveUrl": "https://drive.google.com/file/d/1pLPBbDuJbpIXRvrw-F4LyL7aXoR_BR4z/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1pLPBbDuJbpIXRvrw-F4LyL7aXoR_BR4z&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "7.59 GB",
-      "date": "2025-07-04",
-      "firmwareVersion": "15.0.0.811EX01",
-      "description": "Download the official Realme 14T 5G RMX5074 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Stock Firmware."
     }
   ]
 }
