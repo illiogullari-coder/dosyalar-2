@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-R895F Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-r895f",
+      "googleDriveUrl": "https://drive.google.com/file/d/1UvpzFJ-5nfIRENctXaFJVkO60xEfdLtu/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1UvpzFJ-5nfIRENctXaFJVkO60xEfdLtu&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "3.1 GB",
+      "date": "2026-09-11",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-R895F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-R875N Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-r875n",
       "googleDriveUrl": "https://drive.google.com/file/d/1-6Vm7Zw7D-_L2or-tIR6rTsT0L8piDso/view?usp=drive_link",
@@ -469,18 +481,6 @@
       "date": "2026-07-17",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-L705F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-T807A Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-t807a",
-      "googleDriveUrl": "https://drive.google.com/file/d/1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1.92 GB",
-      "date": "2026-07-17",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-T807A Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     },
     {
       "brand": "Samsung",

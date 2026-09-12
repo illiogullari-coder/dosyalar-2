@@ -5,6 +5,18 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-R895F Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-r895f",
+        "googleDriveUrl": "https://drive.google.com/file/d/1UvpzFJ-5nfIRENctXaFJVkO60xEfdLtu/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1UvpzFJ-5nfIRENctXaFJVkO60xEfdLtu&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.1 GB",
+        "date": "2026-09-11",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-R895F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-R875N Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-r875n",
         "googleDriveUrl": "https://drive.google.com/file/d/1-6Vm7Zw7D-_L2or-tIR6rTsT0L8piDso/view?usp=drive_link",
@@ -470,18 +482,6 @@
         "date": "2026-07-17",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-L705F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-T807A Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-t807a",
-        "googleDriveUrl": "https://drive.google.com/file/d/1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "1.92 GB",
-        "date": "2026-07-17",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-T807A Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       },
       {
         "brand": "Samsung",
@@ -1792,6 +1792,42 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor X9 ANY-L23CQ Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-x9-any-l23cq",
+        "googleDriveUrl": "https://drive.google.com/file/d/1T6M0xPov_YuJ2VxdiTJewYKR_xZr06CF/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1T6M0xPov_YuJ2VxdiTJewYKR_xZr06CF&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.02 GB",
+        "date": "2026-09-11",
+        "firmwareVersion": "7.1.0.231",
+        "description": "Download the official Honor X9 ANY-L23CQ Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor X7A RKY-LX2 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-x7a-rky-lx2",
+        "googleDriveUrl": "https://drive.google.com/file/d/10uLL32XdCp0p9uOXDrT8hW-ja6OfqfDN/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=10uLL32XdCp0p9uOXDrT8hW-ja6OfqfDN&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.40 GB",
+        "date": "2026-09-11",
+        "firmwareVersion": "8.0.0.161",
+        "description": "Download the official Honor X7A RKY-LX2 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor Magic 5 Lite 5G RMO-NX3 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-magic-5-lite-5g-rmo-nx3",
+        "googleDriveUrl": "https://drive.google.com/file/d/1kJKOra5Xq1RV_beMci_7-_RL2c3y32DW/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1kJKOra5Xq1RV_beMci_7-_RL2c3y32DW&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.89 GB",
+        "date": "2026-09-11",
+        "firmwareVersion": "7.1.0.275",
+        "description": "Download the official Honor Magic 5 Lite 5G RMO-NX3 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor Magic 5 Lite 5G RMO-N23 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-magic-5-lite-5g-rmo-n23",
         "googleDriveUrl": "https://drive.google.com/file/d/15QkUsdCQfrGf1LRHP30HJ-PPaM8CvJ6C/view?usp=sharing",
@@ -2341,42 +2377,6 @@
         "date": "2026-03-26",
         "firmwareVersion": "9.0.0.143",
         "description": "Download the official Honor X9C 5G BRP-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor 9X Lite JSN-L22X Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-9x-lite-jsn-l22x",
-        "googleDriveUrl": "https://drive.google.com/file/d/11OJs-J2LTXiXRm52FSW6EzBJ8DCwFQrH/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=11OJs-J2LTXiXRm52FSW6EzBJ8DCwFQrH&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "5.92 GB",
-        "date": "2026-03-25",
-        "firmwareVersion": "9.1.0.313",
-        "description": "Download the official Honor 9X Lite JSN-L22X Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor 200 Pro ELP-NX9 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-200-pro-elp-nx9",
-        "googleDriveUrl": "https://drive.google.com/file/d/1w__1YbF6SKiMBvgO40gTASBkoqmn9pbd/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1w__1YbF6SKiMBvgO40gTASBkoqmn9pbd&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "7.36 GB",
-        "date": "2026-03-25",
-        "firmwareVersion": "9.0.0.154",
-        "description": "Download the official Honor 200 Pro ELP-NX9 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor Magic 7 Lite BRP-NX3 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-magic-7-lite-brp-nx3",
-        "googleDriveUrl": "https://drive.google.com/file/d/1GTScS9SQ1WtiAkdsQyP08UDqL6tpI0Fz/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1GTScS9SQ1WtiAkdsQyP08UDqL6tpI0Fz&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "6.25 GB",
-        "date": "2026-03-25",
-        "firmwareVersion": "8.0.0.138",
-        "description": "Download the official Honor Magic 7 Lite BRP-NX3 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
