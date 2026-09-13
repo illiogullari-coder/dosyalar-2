@@ -485,6 +485,18 @@
       },
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-T807A Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-t807a",
+        "googleDriveUrl": "https://drive.google.com/file/d/1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Biiz1IhDU2IpEPeJgsk4z6ikC7M0yJgU&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "1.92 GB",
+        "date": "2026-07-17",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-T807A Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-R935U Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-r935u",
         "googleDriveUrl": "https://drive.google.com/file/d/1bDrDHezoCPSOYnDNi_f70-JdNkfKNYEb/view?usp=sharing",
@@ -578,18 +590,6 @@
         "date": "2026-07-14",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-R915F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-R905F Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-r905f",
-        "googleDriveUrl": "https://drive.google.com/file/d/1OTByP0uzymRaXUArsZ4NM3o49IHEQstp/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1OTByP0uzymRaXUArsZ4NM3o49IHEQstp&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.31 GB",
-        "date": "2026-07-14",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R905F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
@@ -3568,6 +3568,18 @@
     "files": [
       {
         "brand": "OnePlus",
+        "deviceName": "OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/oneplus-nord-6-cph2795",
+        "googleDriveUrl": "https://drive.google.com/file/d/16gjci3RojHZIFN4Pzhi04R_gGqLmkZxh/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=16gjci3RojHZIFN4Pzhi04R_gGqLmkZxh&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "8.51 GB",
+        "date": "2026-09-12",
+        "firmwareVersion": "16.0.4.601EX01",
+        "description": "Download the official OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+      },
+      {
+        "brand": "OnePlus",
         "deviceName": "OnePlus Pad Lite OPD2480 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/oneplus-pad-lite-opd2480",
         "googleDriveUrl": "https://drive.google.com/file/d/102dZGlr0g1ScxGUE0S-gCTfMn-2ZarwN/view?usp=sharing",
@@ -4141,18 +4153,6 @@
         "date": "2025-07-02",
         "firmwareVersion": "",
         "description": "Download the official OnePlus Pad Neo OPD2302 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
-      },
-      {
-        "brand": "OnePlus",
-        "deviceName": "OnePlus 13S CPH2723 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/oneplus-13s-cph2723",
-        "googleDriveUrl": "https://drive.google.com/file/d/1U4nhMhaJBes_WxGPqqTELTtiVox8L9q8/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1U4nhMhaJBes_WxGPqqTELTtiVox8L9q8&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "7.32 GB",
-        "date": "2025-06-25",
-        "firmwareVersion": "15.0.2.103EX01",
-        "description": "Download the official OnePlus 13S CPH2723 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
       }
     ]
   },
@@ -7561,6 +7561,42 @@
     "files": [
       {
         "brand": "ZTE",
+        "deviceName": "ZTE Blade A54 P963F64 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a54-p963f64",
+        "googleDriveUrl": "https://drive.google.com/file/d/1Phpo-jSP4O9rkoQ4RUn5G296Mb3zItHD/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Phpo-jSP4O9rkoQ4RUn5G296Mb3zItHD&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.68 GB",
+        "date": "2026-09-12",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade A52 P963F61 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Blade A53 Pro P963F63 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a53-pro-p963f63",
+        "googleDriveUrl": "https://drive.google.com/file/d/1Ow2bJw5QeyJn1jRcFP0WWczfleLQPKNR/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Ow2bJw5QeyJn1jRcFP0WWczfleLQPKNR&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.18 GB",
+        "date": "2026-09-12",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade A52 P963F61 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Blade A52 P963F61 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a52-p963f61",
+        "googleDriveUrl": "https://drive.google.com/file/d/1Ia2hU6-MHxDcX93_urq0Oo3DhlL93sH2/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Ia2hU6-MHxDcX93_urq0Oo3DhlL93sH2&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "2.59 GB",
+        "date": "2026-09-12",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade A52 P963F61 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
         "deviceName": "ZTE Blade A56 Z2473 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/zte-blade-a56-z2473",
         "googleDriveUrl": "https://drive.google.com/file/d/1t2pWgBbs3WD2VpNklPFX92AAoIvhla3M/view?usp=sharing",
@@ -8002,42 +8038,6 @@
         "date": "2024-11-22",
         "firmwareVersion": "6.0",
         "description": "Download the official ZTE Small Fresh 4 BV0701 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
-      },
-      {
-        "brand": "ZTE",
-        "deviceName": "ZTE Xiaoxian 4 BV0701 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/zte-xiaoxian-4-bv0701",
-        "googleDriveUrl": "https://drive.google.com/file/d/129u3-sUhFWvYbH02S_TSHmdaU1w3svFf/view",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=129u3-sUhFWvYbH02S_TSHmdaU1w3svFf&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.63 GB",
-        "date": "2024-11-22",
-        "firmwareVersion": "6.0",
-        "description": "Download the official ZTE Xiaoxian 4 BV0701 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
-      },
-      {
-        "brand": "ZTE",
-        "deviceName": "ZTE Blade A33S Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/zte-blade-a33s",
-        "googleDriveUrl": "https://drive.google.com/file/d/1iA-VfbDoRzghp0m8YLe6SFK5NDuFNcZJ/view",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iA-VfbDoRzghp0m8YLe6SFK5NDuFNcZJ&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "1.52 GB",
-        "date": "2024-11-16",
-        "firmwareVersion": "",
-        "description": "Download the official ZTE Blade A33S Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
-      },
-      {
-        "brand": "ZTE",
-        "deviceName": "ZTE Blade V60 Design Z2350 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/zte-blade-v60-design-z2350",
-        "googleDriveUrl": "https://drive.google.com/file/d/1iT0Fsk5Sv4tL_tnDozscGRwBM8NzwnNz/view",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iT0Fsk5Sv4tL_tnDozscGRwBM8NzwnNz&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.51 GB",
-        "date": "2024-11-16",
-        "firmwareVersion": "",
-        "description": "Download the official ZTE Blade V60 Design Z2350 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
       }
     ]
   },
