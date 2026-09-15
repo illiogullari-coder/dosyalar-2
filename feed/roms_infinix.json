@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "Infinix",
+      "deviceName": "Infinix XWatch H5 Pro XW5P Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/infinix-xwatch-h5-pro-xw5p",
+      "googleDriveUrl": "https://drive.google.com/file/d/1GTCxi1zdgE_-kGhkabpMhe68Hlf7p0hu/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1GTCxi1zdgE_-kGhkabpMhe68Hlf7p0hu&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "93 MB",
+      "date": "2026-09-14",
+      "firmwareVersion": "1.0.3.4",
+      "description": "Download the official Infinix Hot 70 X6895B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+    },
+    {
+      "brand": "Infinix",
+      "deviceName": "Infinix Note 60 Ultra X6877 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/infinix-note-60-ultra-x6877",
+      "googleDriveUrl": "https://drive.google.com/file/d/155eR14WpfjW0wQtZCRIzmtpcUcFfSEnI/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=155eR14WpfjW0wQtZCRIzmtpcUcFfSEnI&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "10.90 GB",
+      "date": "2026-09-14",
+      "firmwareVersion": "16.2.0.145SP03",
+      "description": "Download the official Infinix Hot 70 X6895B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+    },
+    {
+      "brand": "Infinix",
       "deviceName": "Infinix Hot 70 X6895B Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/infinix-hot-70-x6895b",
       "googleDriveUrl": "https://drive.google.com/file/d/1hn_EV-Uo8A2RjZeG00rUXNJWzsOS_95i/view?usp=sharing",
@@ -565,30 +589,6 @@
       "date": "2025-06-13",
       "firmwareVersion": "15.0.2.116SP05",
       "description": "Download the official Infinix Note 50 Pro 5G X6856 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware."
-    },
-    {
-      "brand": "Infinix",
-      "deviceName": "Infinix GT 30 Pro X6873 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/infinix-gt-30-pro-x6873",
-      "googleDriveUrl": "https://drive.google.com/file/d/1YqrpNhszkftWsYSWDlehSMETFREB4c-z/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1YqrpNhszkftWsYSWDlehSMETFREB4c-z&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "7.26 GB",
-      "date": "2025-05-15",
-      "firmwareVersion": "15.0.3.116SP01",
-      "description": "Download the official Infinix GT 30 Pro X6873 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-    },
-    {
-      "brand": "Infinix",
-      "deviceName": "Infinix Note 50 Pro X6855 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/infinix-note-50-pro-x6855",
-      "googleDriveUrl": "https://drive.google.com/file/d/1T3aRzYH9LdLi5yGj38XA5jiT-tZevliG/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1T3aRzYH9LdLi5yGj38XA5jiT-tZevliG&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "8.64 GB",
-      "date": "2025-05-03",
-      "firmwareVersion": "15.0.2.116",
-      "description": "Download the official Infinix Note 50 Pro X6855 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
     }
   ]
 }
