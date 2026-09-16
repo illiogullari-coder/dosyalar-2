@@ -7561,6 +7561,30 @@
     "files": [
       {
         "brand": "ZTE",
+        "deviceName": "ZTE Blade V40 Smart A7040 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-v40-smart-a7040",
+        "googleDriveUrl": "https://drive.google.com/file/d/1SOCqYaKsbnHXYL8j6iG67YKydUiSTlCW/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1SOCqYaKsbnHXYL8j6iG67YKydUiSTlCW&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "2.77 GB",
+        "date": "2026-09-15",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade V40 Smart A7040 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
+        "deviceName": "ZTE Blade A72 A7040 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/zte-blade-a72-a7040",
+        "googleDriveUrl": "https://drive.google.com/file/d/1SOCqYaKsbnHXYL8j6iG67YKydUiSTlCW/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1SOCqYaKsbnHXYL8j6iG67YKydUiSTlCW&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "2.77 GB",
+        "date": "2026-09-15",
+        "firmwareVersion": "",
+        "description": "Download the official ZTE Blade A72 A7040 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware."
+      },
+      {
+        "brand": "ZTE",
         "deviceName": "ZTE Blade A54 P963F64 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/zte-blade-a54-p963f64",
         "googleDriveUrl": "https://drive.google.com/file/d/1Phpo-jSP4O9rkoQ4RUn5G296Mb3zItHD/view?usp=sharing",
@@ -8014,30 +8038,6 @@
         "date": "2024-11-22",
         "firmwareVersion": "7.1.2",
         "description": "Download the official ZTE Blade V8Q Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
-      },
-      {
-        "brand": "ZTE",
-        "deviceName": "ZTE Blade V890 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/zte-blade-v890",
-        "googleDriveUrl": "https://drive.google.com/file/d/1iM8pm_S2tq5xHBeTDWohDGjm7rVUp2SB/view",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iM8pm_S2tq5xHBeTDWohDGjm7rVUp2SB&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "2.90 GB",
-        "date": "2024-11-22",
-        "firmwareVersion": "8.1.0",
-        "description": "Download the official ZTE Blade V890 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
-      },
-      {
-        "brand": "ZTE",
-        "deviceName": "ZTE Small Fresh 4 BV0701 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/zte-small-fresh-4-bv0701",
-        "googleDriveUrl": "https://drive.google.com/file/d/1CUeKU9_0iEFUcbFPtKt03HaxkJjJPdVb/view",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1CUeKU9_0iEFUcbFPtKt03HaxkJjJPdVb&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "631 MB",
-        "date": "2024-11-22",
-        "firmwareVersion": "6.0",
-        "description": "Download the official ZTE Small Fresh 4 BV0701 Stock Firmware ROM (Flash File) for your ZTE Mobile. We also provide all other ZTE Stock Firmware for free."
       }
     ]
   },
