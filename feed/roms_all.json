@@ -5,6 +5,18 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-S741U Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-s741u",
+        "googleDriveUrl": "https://drive.google.com/file/d/11AbZKswUy8EKVSCuOKq3r__U_8BhdDzq/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=11AbZKswUy8EKVSCuOKq3r__U_8BhdDzq&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "13.87 GB",
+        "date": "2026-09-17",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-S741U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-A085F Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-a085f",
         "googleDriveUrl": "https://drive.google.com/file/d/1JRAUK_XrEPYFI3B6bciMUiYaP7S9WTCo/view?usp=drive_link",
@@ -473,15 +485,27 @@
       },
       {
         "brand": "Samsung",
-        "deviceName": "Samsung SM-L305F Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-l305f",
-        "googleDriveUrl": "https://drive.google.com/file/d/1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy&export=download&confirm=t",
+        "deviceName": "Samsung SM-L315F Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-l315f",
+        "googleDriveUrl": "https://drive.google.com/file/d/1B-rIk1i8aNum979UHClrAqnnatJIyn3S/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1B-rIk1i8aNum979UHClrAqnnatJIyn3S&export=download&confirm=t",
         "linkSource": "googledrive",
-        "fileSize": "3.56 GB",
+        "fileSize": "3.5 GB",
         "date": "2026-07-17",
         "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+        "description": "Download the official Samsung SM-L315F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
+        "deviceName": "Samsung SM-L705F Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-l705f",
+        "googleDriveUrl": "https://drive.google.com/file/d/1PY4szy5uJlIoChLQrRywwmZJmufgGvtJ/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1PY4szy5uJlIoChLQrRywwmZJmufgGvtJ&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.75 GB",
+        "date": "2026-07-17",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-L705F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       },
       {
         "brand": "Samsung",
@@ -566,30 +590,6 @@
         "date": "2026-07-15",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-R950 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-r950",
-        "googleDriveUrl": "https://drive.google.com/file/d/1DwsVDhL_U2QB7u2ZJ5rsR35igs_AGIeb/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1DwsVDhL_U2QB7u2ZJ5rsR35igs_AGIeb&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.67 GB",
-        "date": "2026-07-14",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-R915F Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-r915f",
-        "googleDriveUrl": "https://drive.google.com/file/d/14kgj4K3YPa08mJzViVUR5LqfJuNHuU4n/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=14kgj4K3YPa08mJzViVUR5LqfJuNHuU4n&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.31 GB",
-        "date": "2026-07-14",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R915F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
