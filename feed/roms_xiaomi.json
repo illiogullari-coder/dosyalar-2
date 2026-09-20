@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Xiaomi",
+      "deviceName": "Xiaomi Redmi K90 Ultra Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/xiaomi-redmi-k90-ultra",
+      "googleDriveUrl": "https://drive.google.com/file/d/1ZpUjaUGE5OdPTkbiGdNkgWm1E3KbOL9D/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1ZpUjaUGE5OdPTkbiGdNkgWm1E3KbOL9D&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "10.72 GB",
+      "date": "2026-09-19",
+      "firmwareVersion": "",
+      "description": "Download the official Xiaomi Redmi K90 Ultra Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Stock Firmware for free."
+    },
+    {
+      "brand": "Xiaomi",
       "deviceName": "Xiaomi 17T Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/xiaomi-17t",
       "googleDriveUrl": "https://drive.google.com/file/d/1XbQugbXUtdcyK4FCR3If_2jJaU_Kre-7/view?usp=sharing",
@@ -469,18 +481,6 @@
       "date": "2025-08-21",
       "firmwareVersion": "",
       "description": "Download the official Xiaomi Redmi 15R 5G Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Stock Firmware."
-    },
-    {
-      "brand": "Xiaomi",
-      "deviceName": "Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/xiaomi-redmi-k80-ultra",
-      "googleDriveUrl": "https://drive.google.com/file/d/1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "9.65 GB",
-      "date": "2025-07-26",
-      "firmwareVersion": "",
-      "description": "Download the official Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Mobile Stock Firmware."
     },
     {
       "brand": "Xiaomi",
