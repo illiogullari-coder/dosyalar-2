@@ -484,6 +484,18 @@
     },
     {
       "brand": "Xiaomi",
+      "deviceName": "Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/xiaomi-redmi-k80-ultra",
+      "googleDriveUrl": "https://drive.google.com/file/d/1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "9.65 GB",
+      "date": "2025-07-26",
+      "firmwareVersion": "",
+      "description": "Download the official Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Mobile Stock Firmware."
+    },
+    {
+      "brand": "Xiaomi",
       "deviceName": "Xiaomi Redmi Note 12R Pro Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/xiaomi-redmi-note-12r-pro",
       "googleDriveUrl": "https://drive.google.com/file/d/1XiFWBwi44m1tANedlUL_7SSkXfnzcXwL/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2025-07-11",
       "firmwareVersion": "",
       "description": "Download the official Xiaomi Civi 5 Pro Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Stock Firmware for free."
-    },
-    {
-      "brand": "Xiaomi",
-      "deviceName": "Xiaomi Pad 7 Ultra Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/xiaomi-pad-7-ultra",
-      "googleDriveUrl": "https://drive.google.com/file/d/1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "7.97 GB",
-      "date": "2025-06-20",
-      "firmwareVersion": "",
-      "description": "Download the official Xiaomi Pad 7 Ultra Stock Firmware ROM (Flash File) for your Xiaomi Mobile. We also provide all other Xiaomi Stock Firmware for free."
     }
   ]
 }

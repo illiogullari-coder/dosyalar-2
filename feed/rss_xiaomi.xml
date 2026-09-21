@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Xiaomi firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:36:38 GMT</lastBuildDate>
     <item>
       <title>Xiaomi Redmi K90 Ultra Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1ZpUjaUGE5OdPTkbiGdNkgWm1E3KbOL9D&amp;export=download&amp;confirm=t</link>
@@ -689,6 +689,23 @@
       <enclosure url="https://drive.usercontent.google.com/download?id=1cFPsz011ZLjlvAfT-zuxvrScTqCftSjF&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
     <item>
+      <title>Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File)</title>
+      <link>https://drive.usercontent.google.com/download?id=1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d&amp;export=download&amp;confirm=t</link>
+      <guid isPermaLink="false">Xiaomi-xiaomi-redmi-k80-ultra</guid>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Xiaomi Redmi K80 Ultra Stock Firmware ROM (Flash File)
+        <br/>Brand: Xiaomi
+        <br/>Size: 9.65 GB
+        <br/>Date: 2025-07-26
+        
+        <br/><a href="https://drive.usercontent.google.com/download?id=1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
+        <br/><a href="https://drive.google.com/file/d/1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d/view?usp=sharing">Open in Google Drive</a>
+        <br/><a href="https://firmwarefile.com/xiaomi-redmi-k80-ultra">Source Page</a>
+      ]]></description>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1hR0-UxgFK6EgnrpMpjqBs0SN17NXL71d&amp;export=download&amp;confirm=t" type="application/zip" />
+    </item>
+    <item>
       <title>Xiaomi Redmi Note 12R Pro Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1XiFWBwi44m1tANedlUL_7SSkXfnzcXwL&amp;export=download&amp;confirm=t</link>
       <guid isPermaLink="false">Xiaomi-xiaomi-redmi-note-12r-pro</guid>
@@ -823,23 +840,6 @@
         <br/><a href="https://firmwarefile.com/xiaomi-civi-5-pro">Source Page</a>
       ]]></description>
       <enclosure url="https://drive.usercontent.google.com/download?id=1f2YXw4fjz30thnVhThxFHC2dejVK9NOn&amp;export=download&amp;confirm=t" type="application/zip" />
-    </item>
-    <item>
-      <title>Xiaomi Pad 7 Ultra Stock Firmware ROM (Flash File)</title>
-      <link>https://drive.usercontent.google.com/download?id=1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d&amp;export=download&amp;confirm=t</link>
-      <guid isPermaLink="false">Xiaomi-xiaomi-pad-7-ultra</guid>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[
-        Device: Xiaomi Pad 7 Ultra Stock Firmware ROM (Flash File)
-        <br/>Brand: Xiaomi
-        <br/>Size: 7.97 GB
-        <br/>Date: 2025-06-20
-        
-        <br/><a href="https://drive.usercontent.google.com/download?id=1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
-        <br/><a href="https://drive.google.com/file/d/1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d/view?usp=sharing">Open in Google Drive</a>
-        <br/><a href="https://firmwarefile.com/xiaomi-pad-7-ultra">Source Page</a>
-      ]]></description>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1fIkMvPB9m1VfERuHB0zRSzSwS6s9GL_d&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
   </channel>
 </rss>
