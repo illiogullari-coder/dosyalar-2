@@ -484,6 +484,30 @@
     },
     {
       "brand": "Honor",
+      "deviceName": "Honor X7b CLK-N32 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-x7b-clk-n32",
+      "googleDriveUrl": "https://drive.google.com/file/d/1Y3eBJ0OIZvkuj2-3nN1AfYeRS3XzIn8B/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Y3eBJ0OIZvkuj2-3nN1AfYeRS3XzIn8B&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.10 GB",
+      "date": "2026-04-08",
+      "firmwareVersion": "9.0.0.176",
+      "description": "Download the official Honor X7b CLK-N32 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+    },
+    {
+      "brand": "Honor",
+      "deviceName": "Honor X5b Plus GFY-L33 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-x5b-plus-gfy-l33",
+      "googleDriveUrl": "https://drive.google.com/file/d/1NhASkeDFOKs2XqGEybSYo_mhAX90RurF/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1NhASkeDFOKs2XqGEybSYo_mhAX90RurF&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.48 GB",
+      "date": "2026-04-03",
+      "firmwareVersion": "8.0.0.183",
+      "description": "Download the official Honor X5b Plus GFY-L33 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+    },
+    {
+      "brand": "Honor",
       "deviceName": "Honor X5b Plus GFY-LX3 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/honor-x5b-plus-gfy-lx3",
       "googleDriveUrl": "https://drive.google.com/file/d/1dI7C-lbhPirm2UuLIPjvmrMOJa1aFDzl/view?usp=sharing",
@@ -565,30 +589,6 @@
       "date": "2026-04-01",
       "firmwareVersion": "8.0.0.186",
       "description": "Download the official Honor X7c ALT-LX2 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor Pad X9A ELN2-WX9 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-pad-x9a-eln2-wx9",
-      "googleDriveUrl": "https://drive.google.com/file/d/1_IAK1bYiVtzdOsYSq0qS_HprDw03sUKC/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_IAK1bYiVtzdOsYSq0qS_HprDw03sUKC&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "4.78 GB",
-      "date": "2026-03-26",
-      "firmwareVersion": "9.0.0.153",
-      "description": "Download the official Honor Pad X9A ELN2-WX9 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor X8C ABR-LX3 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-x8c-abr-lx3",
-      "googleDriveUrl": "https://drive.google.com/file/d/1meC1eA6o7TUkbuwXwz3DVeVhMOkIDT5h/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1meC1eA6o7TUkbuwXwz3DVeVhMOkIDT5h&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.15 GB",
-      "date": "2026-03-26",
-      "firmwareVersion": "9.0.0.133",
-      "description": "Download the official Honor X8C ABR-LX3 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
     }
   ]
 }

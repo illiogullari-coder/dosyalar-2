@@ -484,6 +484,18 @@
     },
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-F9710 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-f9710",
+      "googleDriveUrl": "https://drive.google.com/file/d/1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "18.55 GB",
+      "date": "2026-08-04",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-F9710 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-F971W Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-f971w",
       "googleDriveUrl": "https://drive.google.com/file/d/1jBXCQboVY_PJ3QdRJ88KKtoZcRf3azzw/view?usp=drive_link",
@@ -577,18 +589,6 @@
       "date": "2026-07-28",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-F971B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-L305F Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-l305f",
-      "googleDriveUrl": "https://drive.google.com/file/d/1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "3.56 GB",
-      "date": "2026-07-17",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-R950 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }

@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Samsung firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 08:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:09:15 GMT</lastBuildDate>
     <item>
       <title>Samsung SM-A576U Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1Upu_O-mvPDefl1p4D4g4rsyfmb7rrS7i&amp;export=download&amp;confirm=t</link>
@@ -689,6 +689,23 @@
       <enclosure url="https://drive.usercontent.google.com/download?id=1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
     <item>
+      <title>Samsung SM-F9710 Stock Firmware ROM (Flash File)</title>
+      <link>https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&amp;export=download&amp;confirm=t</link>
+      <guid isPermaLink="false">Samsung-samsung-sm-f9710</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Samsung SM-F9710 Stock Firmware ROM (Flash File)
+        <br/>Brand: Samsung
+        <br/>Size: 18.55 GB
+        <br/>Date: 2026-08-04
+        
+        <br/><a href="https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
+        <br/><a href="https://drive.google.com/file/d/1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL/view?usp=drive_link">Open in Google Drive</a>
+        <br/><a href="https://firmwarefile.com/samsung-sm-f9710">Source Page</a>
+      ]]></description>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&amp;export=download&amp;confirm=t" type="application/zip" />
+    </item>
+    <item>
       <title>Samsung SM-F971W Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1jBXCQboVY_PJ3QdRJ88KKtoZcRf3azzw&amp;export=download&amp;confirm=t</link>
       <guid isPermaLink="false">Samsung-samsung-sm-f971w</guid>
@@ -823,23 +840,6 @@
         <br/><a href="https://firmwarefile.com/samsung-sm-f971b">Source Page</a>
       ]]></description>
       <enclosure url="https://drive.usercontent.google.com/download?id=1tOZ3UGBPii4ryOtqajzLV7tdfJEv8TFN&amp;export=download&amp;confirm=t" type="application/zip" />
-    </item>
-    <item>
-      <title>Samsung SM-L305F Stock Firmware ROM (Flash File)</title>
-      <link>https://drive.usercontent.google.com/download?id=1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy&amp;export=download&amp;confirm=t</link>
-      <guid isPermaLink="false">Samsung-samsung-sm-l305f</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[
-        Device: Samsung SM-L305F Stock Firmware ROM (Flash File)
-        <br/>Brand: Samsung
-        <br/>Size: 3.56 GB
-        <br/>Date: 2026-07-17
-        
-        <br/><a href="https://drive.usercontent.google.com/download?id=1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
-        <br/><a href="https://drive.google.com/file/d/1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy/view?usp=sharing">Open in Google Drive</a>
-        <br/><a href="https://firmwarefile.com/samsung-sm-l305f">Source Page</a>
-      ]]></description>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1Z3gKsbWuKH4QQ-dqUhRcB7Dd_T71qQRy&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
   </channel>
 </rss>
