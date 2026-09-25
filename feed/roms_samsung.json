@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-S741B Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-s741b",
+      "googleDriveUrl": "https://drive.google.com/file/d/12UFTMhcrs10cFSFZE17yvJn9U0CuhqNc/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=12UFTMhcrs10cFSFZE17yvJn9U0CuhqNc&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "15.12 GB",
+      "date": "2026-09-24",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-S741B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-A576U Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-a576u",
       "googleDriveUrl": "https://drive.google.com/file/d/1Upu_O-mvPDefl1p4D4g4rsyfmb7rrS7i/view?usp=drive_link",
@@ -469,18 +481,6 @@
       "date": "2026-08-09",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-A253C Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-A175F Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-a175f",
-      "googleDriveUrl": "https://drive.google.com/file/d/1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "6.67 GB",
-      "date": "2026-08-07",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-A175F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     },
     {
       "brand": "Samsung",
