@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "Huawei",
+      "deviceName": "Huawei Pura 80 HED-LX9 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-pura-80-hed-lx9",
+      "googleDriveUrl": "https://drive.google.com/file/d/1xkBQM-JZqjiYapr1X-sA1uGaX4fgumVT/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1xkBQM-JZqjiYapr1X-sA1uGaX4fgumVT&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "6.68 GB",
+      "date": "2026-09-25",
+      "firmwareVersion": "104.3.1.175",
+      "description": "Download the official Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+    },
+    {
+      "brand": "Huawei",
+      "deviceName": "Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-nova-y73-juyo-l21",
+      "googleDriveUrl": "https://drive.google.com/file/d/1kN8yIDofL4sK6QFtL8gyHGHhzBiP4W9w/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1kN8yIDofL4sK6QFtL8gyHGHhzBiP4W9w&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.15 GB",
+      "date": "2026-09-25",
+      "firmwareVersion": "102.0.0.125",
+      "description": "Download the official Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+    },
+    {
+      "brand": "Huawei",
       "deviceName": "Huawei Nova Y63 GFY-LX1 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/huawei-nova-y63-gfy-lx1",
       "googleDriveUrl": "https://drive.google.com/file/d/1ZJgTeh8oHOIkOyoteTwdwlqwOhtzdyCp/view?usp=sharing",
@@ -457,30 +481,6 @@
       "date": "2026-02-11",
       "firmwareVersion": "102.0.0.268",
       "description": "Download the official Huawei Mate 40 Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an50",
-      "googleDriveUrl": "https://drive.google.com/file/d/1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "6.02 GB",
-      "date": "2026-02-11",
-      "firmwareVersion": "102.0.0.268",
-      "description": "Download the official Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-mate-40-pro-noh-an80",
-      "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.91 GB",
-      "date": "2026-02-11",
-      "firmwareVersion": "102.0.0.278",
-      "description": "Download the official Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
     },
     {
       "brand": "Huawei",

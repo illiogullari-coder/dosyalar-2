@@ -485,6 +485,18 @@
       },
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-A175F Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-a175f",
+        "googleDriveUrl": "https://drive.google.com/file/d/1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.67 GB",
+        "date": "2026-08-07",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-A175F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-F9710 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-f9710",
         "googleDriveUrl": "https://drive.google.com/file/d/1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL/view?usp=drive_link",
@@ -578,18 +590,6 @@
         "date": "2026-07-28",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-A366Q Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-F971B Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-f971b",
-        "googleDriveUrl": "https://drive.google.com/file/d/1tOZ3UGBPii4ryOtqajzLV7tdfJEv8TFN/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1tOZ3UGBPii4ryOtqajzLV7tdfJEv8TFN&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "18.26 GB",
-        "date": "2026-07-28",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-F971B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
@@ -1198,6 +1198,30 @@
     "files": [
       {
         "brand": "Huawei",
+        "deviceName": "Huawei Pura 80 HED-LX9 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/huawei-pura-80-hed-lx9",
+        "googleDriveUrl": "https://drive.google.com/file/d/1xkBQM-JZqjiYapr1X-sA1uGaX4fgumVT/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1xkBQM-JZqjiYapr1X-sA1uGaX4fgumVT&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.68 GB",
+        "date": "2026-09-25",
+        "firmwareVersion": "104.3.1.175",
+        "description": "Download the official Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+      },
+      {
+        "brand": "Huawei",
+        "deviceName": "Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/huawei-nova-y73-juyo-l21",
+        "googleDriveUrl": "https://drive.google.com/file/d/1kN8yIDofL4sK6QFtL8gyHGHhzBiP4W9w/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1kN8yIDofL4sK6QFtL8gyHGHhzBiP4W9w&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.15 GB",
+        "date": "2026-09-25",
+        "firmwareVersion": "102.0.0.125",
+        "description": "Download the official Huawei Nova Y73 JUYO-L21 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+      },
+      {
+        "brand": "Huawei",
         "deviceName": "Huawei Nova Y63 GFY-LX1 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/huawei-nova-y63-gfy-lx1",
         "googleDriveUrl": "https://drive.google.com/file/d/1ZJgTeh8oHOIkOyoteTwdwlqwOhtzdyCp/view?usp=sharing",
@@ -1651,30 +1675,6 @@
         "date": "2026-02-11",
         "firmwareVersion": "102.0.0.268",
         "description": "Download the official Huawei Mate 40 Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
-      },
-      {
-        "brand": "Huawei",
-        "deviceName": "Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an50",
-        "googleDriveUrl": "https://drive.google.com/file/d/1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "6.02 GB",
-        "date": "2026-02-11",
-        "firmwareVersion": "102.0.0.268",
-        "description": "Download the official Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
-      },
-      {
-        "brand": "Huawei",
-        "deviceName": "Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/huawei-mate-40-pro-noh-an80",
-        "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "5.91 GB",
-        "date": "2026-02-11",
-        "firmwareVersion": "102.0.0.278",
-        "description": "Download the official Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
       },
       {
         "brand": "Huawei",
@@ -2272,6 +2272,18 @@
       },
       {
         "brand": "Honor",
+        "deviceName": "Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-90-lite-alt-nx1e",
+        "googleDriveUrl": "https://drive.google.com/file/d/1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.86 GB",
+        "date": "2026-04-09",
+        "firmwareVersion": "9.0.0.157",
+        "description": "Download the official Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor X7b CLK-N32 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-x7b-clk-n32",
         "googleDriveUrl": "https://drive.google.com/file/d/1Y3eBJ0OIZvkuj2-3nN1AfYeRS3XzIn8B/view?usp=sharing",
@@ -2365,18 +2377,6 @@
         "date": "2026-04-01",
         "firmwareVersion": "8.0.0.236",
         "description": "Download the official Honor 200 Smart ALT-N31 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X7c ALT-LX2 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x7c-alt-lx2",
-        "googleDriveUrl": "https://drive.google.com/file/d/1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.93 GB",
-        "date": "2026-04-01",
-        "firmwareVersion": "8.0.0.186",
-        "description": "Download the official Honor X7c ALT-LX2 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
@@ -6397,6 +6397,18 @@
     "files": [
       {
         "brand": "Infinix",
+        "deviceName": "Infinix XPad 30 Pro X1103B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/infinix-xpad-30-pro-x1103b",
+        "googleDriveUrl": "https://drive.google.com/file/d/1YLeBvYzw_PibACyIBDYpVMlOisDer9n8/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1YLeBvYzw_PibACyIBDYpVMlOisDer9n8&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.82 GB",
+        "date": "2026-09-25",
+        "firmwareVersion": "16.3.0.130SP05",
+        "description": "Download the official Infinix XPad 30 Pro X1103B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+      },
+      {
+        "brand": "Infinix",
         "deviceName": "Infinix XWatch H5 Pro XW5P Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/infinix-xwatch-h5-pro-xw5p",
         "googleDriveUrl": "https://drive.google.com/file/d/1GTCxi1zdgE_-kGhkabpMhe68Hlf7p0hu/view?usp=sharing",
@@ -6862,18 +6874,6 @@
         "date": "2025-07-28",
         "firmwareVersion": "",
         "description": "Download the official Infinix Note 50X 5G X6857B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-      },
-      {
-        "brand": "Infinix",
-        "deviceName": "Infinix Smart 10 Plus X6725B Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/infinix-smart-10-plus-x6725b",
-        "googleDriveUrl": "https://drive.google.com/file/d/1kvym9F6jqteDrw00X4mi_nJ1qgin3jqq/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1kvym9F6jqteDrw00X4mi_nJ1qgin3jqq&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "6 GB",
-        "date": "2025-07-28",
-        "firmwareVersion": "",
-        "description": "Download the official Infinix Smart 10 Plus X6725B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
       },
       {
         "brand": "Infinix",

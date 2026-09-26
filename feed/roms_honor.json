@@ -484,6 +484,18 @@
     },
     {
       "brand": "Honor",
+      "deviceName": "Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-90-lite-alt-nx1e",
+      "googleDriveUrl": "https://drive.google.com/file/d/1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.86 GB",
+      "date": "2026-04-09",
+      "firmwareVersion": "9.0.0.157",
+      "description": "Download the official Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+    },
+    {
+      "brand": "Honor",
       "deviceName": "Honor X7b CLK-N32 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/honor-x7b-clk-n32",
       "googleDriveUrl": "https://drive.google.com/file/d/1Y3eBJ0OIZvkuj2-3nN1AfYeRS3XzIn8B/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2026-04-01",
       "firmwareVersion": "8.0.0.236",
       "description": "Download the official Honor 200 Smart ALT-N31 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor X7c ALT-LX2 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-x7c-alt-lx2",
-      "googleDriveUrl": "https://drive.google.com/file/d/1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "4.93 GB",
-      "date": "2026-04-01",
-      "firmwareVersion": "8.0.0.186",
-      "description": "Download the official Honor X7c ALT-LX2 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
     }
   ]
 }

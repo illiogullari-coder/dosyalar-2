@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Honor firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 08:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:20:45 GMT</lastBuildDate>
     <item>
       <title>Honor X80i 5G LNA-AN10 Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=13VHzvPTQxdpX3QUC8haKS0sWux-EOfkx&amp;export=download&amp;confirm=t</link>
@@ -689,6 +689,23 @@
       <enclosure url="https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
     <item>
+      <title>Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File)</title>
+      <link>https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&amp;export=download&amp;confirm=t</link>
+      <guid isPermaLink="false">Honor-honor-90-lite-alt-nx1e</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File)
+        <br/>Brand: Honor
+        <br/>Size: 5.86 GB
+        <br/>Date: 2026-04-09
+        <br/>Version: 9.0.0.157
+        <br/><a href="https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
+        <br/><a href="https://drive.google.com/file/d/1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5/view?usp=sharing">Open in Google Drive</a>
+        <br/><a href="https://firmwarefile.com/honor-90-lite-alt-nx1e">Source Page</a>
+      ]]></description>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&amp;export=download&amp;confirm=t" type="application/zip" />
+    </item>
+    <item>
       <title>Honor X7b CLK-N32 Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1Y3eBJ0OIZvkuj2-3nN1AfYeRS3XzIn8B&amp;export=download&amp;confirm=t</link>
       <guid isPermaLink="false">Honor-honor-x7b-clk-n32</guid>
@@ -823,23 +840,6 @@
         <br/><a href="https://firmwarefile.com/honor-200-smart-alt-n31">Source Page</a>
       ]]></description>
       <enclosure url="https://drive.usercontent.google.com/download?id=1NdQHsdb1hy7zEMBK6SvrSY-czVUOPZIk&amp;export=download&amp;confirm=t" type="application/zip" />
-    </item>
-    <item>
-      <title>Honor X7c ALT-LX2 Stock Firmware ROM (Flash File)</title>
-      <link>https://drive.usercontent.google.com/download?id=1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu&amp;export=download&amp;confirm=t</link>
-      <guid isPermaLink="false">Honor-honor-x7c-alt-lx2</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[
-        Device: Honor X7c ALT-LX2 Stock Firmware ROM (Flash File)
-        <br/>Brand: Honor
-        <br/>Size: 4.93 GB
-        <br/>Date: 2026-04-01
-        <br/>Version: 8.0.0.186
-        <br/><a href="https://drive.usercontent.google.com/download?id=1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
-        <br/><a href="https://drive.google.com/file/d/1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu/view?usp=sharing">Open in Google Drive</a>
-        <br/><a href="https://firmwarefile.com/honor-x7c-alt-lx2">Source Page</a>
-      ]]></description>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1JEaR0BPlZfXURjeVnCU0PguNDHJ9ZiXu&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
   </channel>
 </rss>
