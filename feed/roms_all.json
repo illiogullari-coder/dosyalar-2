@@ -1678,6 +1678,30 @@
       },
       {
         "brand": "Huawei",
+        "deviceName": "Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an50",
+        "googleDriveUrl": "https://drive.google.com/file/d/1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.02 GB",
+        "date": "2026-02-11",
+        "firmwareVersion": "102.0.0.268",
+        "description": "Download the official Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+      },
+      {
+        "brand": "Huawei",
+        "deviceName": "Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/huawei-mate-40-pro-noh-an80",
+        "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.91 GB",
+        "date": "2026-02-11",
+        "firmwareVersion": "102.0.0.278",
+        "description": "Download the official Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+      },
+      {
+        "brand": "Huawei",
         "deviceName": "Huawei Mate 40E Pro NOH-AN80 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an80",
         "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
@@ -1759,30 +1783,6 @@
         "date": "2025-12-27",
         "firmwareVersion": "10.0.0.161",
         "description": "Download the official Huawei P20 Pro CLT-L29C Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-      },
-      {
-        "brand": "Huawei",
-        "deviceName": "Huawei P30 Pro VOGUE-AL00A-BD Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/huawei-p30-pro-vogue-al00a-bd",
-        "googleDriveUrl": "https://drive.google.com/file/d/1_dTrcHKVLz1e6hxvWSNjWIyfS9CpDKvp/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_dTrcHKVLz1e6hxvWSNjWIyfS9CpDKvp&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "2.16 GB",
-        "date": "2025-12-12",
-        "firmwareVersion": "1.0.0.92",
-        "description": "Download the official Huawei P30 Pro VOGUE-AL00A-BD Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-      },
-      {
-        "brand": "Huawei",
-        "deviceName": "Huawei Nova 11 SE BNE-AL00X Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/huawei-nova-11-se-bne-al00x",
-        "googleDriveUrl": "https://drive.google.com/file/d/1HTCgP2yOMfpTEOuxwpZrLi12m8m04sPa/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1HTCgP2yOMfpTEOuxwpZrLi12m8m04sPa&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.17 GB",
-        "date": "2025-11-07",
-        "firmwareVersion": "4.0.0.131",
-        "description": "Download the official Huawei Nova 11 SE BNE-AL00X Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
       }
     ]
   },
@@ -3556,6 +3556,18 @@
     "files": [
       {
         "brand": "OnePlus",
+        "deviceName": "OnePlus Pad 3 Pro OPD2513 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/oneplus-pad-3-pro-opd2513",
+        "googleDriveUrl": "https://drive.google.com/file/d/1GI1ZkW--FFiRy2iZ9Gg7KYYiSKYhfnAA/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1GI1ZkW--FFiRy2iZ9Gg7KYYiSKYhfnAA&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "10.23 GB",
+        "date": "2026-09-26",
+        "firmwareVersion": "16.0.9.402CN01",
+        "description": "Download the official OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+      },
+      {
+        "brand": "OnePlus",
         "deviceName": "OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/oneplus-nord-6-cph2795",
         "googleDriveUrl": "https://drive.google.com/file/d/16gjci3RojHZIFN4Pzhi04R_gGqLmkZxh/view?usp=sharing",
@@ -4129,18 +4141,6 @@
         "date": "2025-07-02",
         "firmwareVersion": "",
         "description": "Download the official OnePlus Pad Go OPD2305 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
-      },
-      {
-        "brand": "OnePlus",
-        "deviceName": "OnePlus Pad Neo OPD2302 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/oneplus-pad-neo-opd2302",
-        "googleDriveUrl": "https://drive.google.com/file/d/1jOT1MUIPhWq6VdnFqUq31R0ejewgzOwx/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1jOT1MUIPhWq6VdnFqUq31R0ejewgzOwx&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.71 GB",
-        "date": "2025-07-02",
-        "firmwareVersion": "",
-        "description": "Download the official OnePlus Pad Neo OPD2302 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
       }
     ]
   },
@@ -6877,6 +6877,18 @@
       },
       {
         "brand": "Infinix",
+        "deviceName": "Infinix Smart 10 Plus X6725B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/infinix-smart-10-plus-x6725b",
+        "googleDriveUrl": "https://drive.google.com/file/d/1kvym9F6jqteDrw00X4mi_nJ1qgin3jqq/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1kvym9F6jqteDrw00X4mi_nJ1qgin3jqq&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6 GB",
+        "date": "2025-07-28",
+        "firmwareVersion": "",
+        "description": "Download the official Infinix Smart 10 Plus X6725B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+      },
+      {
+        "brand": "Infinix",
         "deviceName": "Infinix Xpad GT X1301 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/infinix-xpad-gt-x1301",
         "googleDriveUrl": "https://drive.google.com/file/d/1Vu_HpkI07Qdcjy4iwffmzaMATYuLIlLl/view?usp=sharing",
@@ -6970,18 +6982,6 @@
         "date": "2025-07-16",
         "firmwareVersion": "15.1.1.103SP09",
         "description": "Download the official Infinix Hot 60 Pro Plus X6886 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-      },
-      {
-        "brand": "Infinix",
-        "deviceName": "Infinix Note 50 Pro 5G X6856 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/infinix-note-50-pro-5g-x6856",
-        "googleDriveUrl": "https://drive.google.com/file/d/1bDr8JBXjrjQhPasX1ojwp65ElT-H7UBe/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1bDr8JBXjrjQhPasX1ojwp65ElT-H7UBe&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.40 GB",
-        "date": "2025-06-13",
-        "firmwareVersion": "15.0.2.116SP05",
-        "description": "Download the official Infinix Note 50 Pro 5G X6856 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware."
       }
     ]
   },

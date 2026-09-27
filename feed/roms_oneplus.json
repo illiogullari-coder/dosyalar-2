@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "OnePlus",
+      "deviceName": "OnePlus Pad 3 Pro OPD2513 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/oneplus-pad-3-pro-opd2513",
+      "googleDriveUrl": "https://drive.google.com/file/d/1GI1ZkW--FFiRy2iZ9Gg7KYYiSKYhfnAA/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1GI1ZkW--FFiRy2iZ9Gg7KYYiSKYhfnAA&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "10.23 GB",
+      "date": "2026-09-26",
+      "firmwareVersion": "16.0.9.402CN01",
+      "description": "Download the official OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+    },
+    {
+      "brand": "OnePlus",
       "deviceName": "OnePlus Nord 6 CPH2795 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/oneplus-nord-6-cph2795",
       "googleDriveUrl": "https://drive.google.com/file/d/16gjci3RojHZIFN4Pzhi04R_gGqLmkZxh/view?usp=sharing",
@@ -577,18 +589,6 @@
       "date": "2025-07-02",
       "firmwareVersion": "",
       "description": "Download the official OnePlus Pad Go OPD2305 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
-    },
-    {
-      "brand": "OnePlus",
-      "deviceName": "OnePlus Pad Neo OPD2302 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/oneplus-pad-neo-opd2302",
-      "googleDriveUrl": "https://drive.google.com/file/d/1jOT1MUIPhWq6VdnFqUq31R0ejewgzOwx/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1jOT1MUIPhWq6VdnFqUq31R0ejewgzOwx&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "8.71 GB",
-      "date": "2025-07-02",
-      "firmwareVersion": "",
-      "description": "Download the official OnePlus Pad Neo OPD2302 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
     }
   ]
 }

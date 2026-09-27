@@ -484,6 +484,30 @@
     },
     {
       "brand": "Huawei",
+      "deviceName": "Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an50",
+      "googleDriveUrl": "https://drive.google.com/file/d/1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VJXxk2g0XjhPfycqtNgvnXhabKtZ8bX7&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "6.02 GB",
+      "date": "2026-02-11",
+      "firmwareVersion": "102.0.0.268",
+      "description": "Download the official Huawei Mate 40E Pro NOH-AN50 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+    },
+    {
+      "brand": "Huawei",
+      "deviceName": "Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/huawei-mate-40-pro-noh-an80",
+      "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.91 GB",
+      "date": "2026-02-11",
+      "firmwareVersion": "102.0.0.278",
+      "description": "Download the official Huawei Mate 40 Pro NOH-AN80 Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware."
+    },
+    {
+      "brand": "Huawei",
       "deviceName": "Huawei Mate 40E Pro NOH-AN80 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/huawei-mate-40e-pro-noh-an80",
       "googleDriveUrl": "https://drive.google.com/file/d/1wR37MmjouBBS8Y8_WeupEgwu6jr2AqVX/view?usp=sharing",
@@ -565,30 +589,6 @@
       "date": "2025-12-27",
       "firmwareVersion": "10.0.0.161",
       "description": "Download the official Huawei P20 Pro CLT-L29C Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei P30 Pro VOGUE-AL00A-BD Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-p30-pro-vogue-al00a-bd",
-      "googleDriveUrl": "https://drive.google.com/file/d/1_dTrcHKVLz1e6hxvWSNjWIyfS9CpDKvp/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_dTrcHKVLz1e6hxvWSNjWIyfS9CpDKvp&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "2.16 GB",
-      "date": "2025-12-12",
-      "firmwareVersion": "1.0.0.92",
-      "description": "Download the official Huawei P30 Pro VOGUE-AL00A-BD Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
-    },
-    {
-      "brand": "Huawei",
-      "deviceName": "Huawei Nova 11 SE BNE-AL00X Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/huawei-nova-11-se-bne-al00x",
-      "googleDriveUrl": "https://drive.google.com/file/d/1HTCgP2yOMfpTEOuxwpZrLi12m8m04sPa/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1HTCgP2yOMfpTEOuxwpZrLi12m8m04sPa&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "8.17 GB",
-      "date": "2025-11-07",
-      "firmwareVersion": "4.0.0.131",
-      "description": "Download the official Huawei Nova 11 SE BNE-AL00X Stock Firmware ROM (Flash File) for your Huawei Mobile. We also provide all other Huawei Stock Firmware for free."
     }
   ]
 }
