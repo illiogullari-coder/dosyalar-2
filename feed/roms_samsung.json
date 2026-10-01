@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-L715F Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-l715f",
+      "googleDriveUrl": "https://drive.google.com/file/d/1UaigVLzVtrgh3qEeRT74qFScrOesAuyO/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1UaigVLzVtrgh3qEeRT74qFScrOesAuyO&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "3.69 GB",
+      "date": "2026-09-30",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-L715F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free.SM-L315N"
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-A185N Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-a185n",
       "googleDriveUrl": "https://drive.google.com/file/d/1cedBCGGGOD0JUKO9-62_gEfl4NnrGYGQ/view?usp=drive_link",
@@ -472,15 +484,27 @@
     },
     {
       "brand": "Samsung",
-      "deviceName": "Samsung SM-F971Z Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-f971z",
-      "googleDriveUrl": "https://drive.google.com/file/d/1lQ7hNDApBsx986M5QYenwxZ2_n2Kdssc/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1lQ7hNDApBsx986M5QYenwxZ2_n2Kdssc&export=download&confirm=t",
+      "deviceName": "Samsung SM-A2560 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-a2560",
+      "googleDriveUrl": "https://drive.google.com/file/d/1OeiG1G3YzieqcY2zab7_EB4CYsF6yjkj/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1OeiG1G3YzieqcY2zab7_EB4CYsF6yjkj&export=download&confirm=t",
       "linkSource": "googledrive",
-      "fileSize": "16.8 GB",
+      "fileSize": "7.39 GB",
       "date": "2026-08-10",
       "firmwareVersion": "",
-      "description": "Download the official Samsung SM-F971Z Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      "description": "Download the official Samsung SM-A2560 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware."
+    },
+    {
+      "brand": "Samsung",
+      "deviceName": "Samsung SM-A376E Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-a376e",
+      "googleDriveUrl": "https://drive.google.com/file/d/1z670WgTft2fk-rP008wHdRfswd_klAOM/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1z670WgTft2fk-rP008wHdRfswd_klAOM&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "8.27 GB",
+      "date": "2026-08-10",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-A376E Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     },
     {
       "brand": "Samsung",
@@ -565,30 +589,6 @@
       "date": "2026-07-28",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-F776Z Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-F776U1 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-f776u1",
-      "googleDriveUrl": "https://drive.google.com/file/d/17JEKgdcigeDqLP2TXiDAv287RvMaB4yL/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=17JEKgdcigeDqLP2TXiDAv287RvMaB4yL&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "16.63 GB",
-      "date": "2026-07-28",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-F776U1 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-F776U Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-f776u",
-      "googleDriveUrl": "https://drive.google.com/file/d/1gsowNr1eI-2LfPdw4zK9iQ2_7dxkKIGc/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1gsowNr1eI-2LfPdw4zK9iQ2_7dxkKIGc&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "16.93 GB",
-      "date": "2026-07-28",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-F776U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }

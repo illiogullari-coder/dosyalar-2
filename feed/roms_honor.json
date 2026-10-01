@@ -484,6 +484,30 @@
     },
     {
       "brand": "Honor",
+      "deviceName": "Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-200-smart-alt-nx1",
+      "googleDriveUrl": "https://drive.google.com/file/d/1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.86 GB",
+      "date": "2026-04-09",
+      "firmwareVersion": "9.0.0.157",
+      "description": "Download the official Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+    },
+    {
+      "brand": "Honor",
+      "deviceName": "Honor X7c 5G ALT-NX1E Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-x7c-5g-alt-nx1e",
+      "googleDriveUrl": "https://drive.google.com/file/d/1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.86 GB",
+      "date": "2026-04-09",
+      "firmwareVersion": "9.0.0.157",
+      "description": "Download the official Honor X7c 5G ALT-NX1E Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
+    },
+    {
+      "brand": "Honor",
       "deviceName": "Honor 90 Lite ALT-NX1E Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/honor-90-lite-alt-nx1e",
       "googleDriveUrl": "https://drive.google.com/file/d/1QPoJdJ_XWNWaiCF_xoZ2yIPin4ZCI6O5/view?usp=sharing",
@@ -565,30 +589,6 @@
       "date": "2026-04-03",
       "firmwareVersion": "8.0.0.244",
       "description": "Download the official Honor X9b ALI-NX3P Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor Magic 6 Lite 5G ALI-N03 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-magic-6-lite-5g-ali-n03",
-      "googleDriveUrl": "https://drive.google.com/file/d/1WSDTkp5yVx1vjZhz-zBWlPyvtRGsKkS8/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1WSDTkp5yVx1vjZhz-zBWlPyvtRGsKkS8&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.78 GB",
-      "date": "2026-04-02",
-      "firmwareVersion": "8.0.0.233",
-      "description": "Download the official Honor Magic 6 Lite 5G ALI-N03 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor 200 Smart ALT-N31 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-200-smart-alt-n31",
-      "googleDriveUrl": "https://drive.google.com/file/d/1NdQHsdb1hy7zEMBK6SvrSY-czVUOPZIk/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1NdQHsdb1hy7zEMBK6SvrSY-czVUOPZIk&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.67 GB",
-      "date": "2026-04-01",
-      "firmwareVersion": "8.0.0.236",
-      "description": "Download the official Honor 200 Smart ALT-N31 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
     }
   ]
 }
