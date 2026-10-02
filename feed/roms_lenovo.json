@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Lenovo",
+      "deviceName": "Lenovo K30-W Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/lenovo-k30-w",
+      "googleDriveUrl": "https://drive.google.com/file/d/1sArhPrKViwLIOF1NZGEjyxjQCCNw88Vk/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1sArhPrKViwLIOF1NZGEjyxjQCCNw88Vk&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "532 MB",
+      "date": "2026-10-01",
+      "firmwareVersion": "",
+      "description": "Download the official Asus Memo Pad FHD 10 ME302KL Stock Firmware ROM (Flash File) for your Asus Mobile. We also provide all other Asus Stock Firmware for free."
+    },
+    {
+      "brand": "Lenovo",
       "deviceName": "Lenovo TAB8 A401LV Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/lenovo-tab8-a401lv",
       "googleDriveUrl": "https://drive.google.com/file/d/1lXVbIUZKDMGJOwuJpa43gnEoswhfaAg2/view?usp=sharing",
@@ -45,7 +57,7 @@
       "googleDriveUrl": "https://drive.google.com/file/d/14ehqftScj-o1D3pjYEdGo0UBD_qlo_uC/view?usp=sharing",
       "directDownloadUrl": "https://drive.usercontent.google.com/download?id=14ehqftScj-o1D3pjYEdGo0UBD_qlo_uC&export=download&confirm=t",
       "linkSource": "googledrive",
-      "fileSize": "13.89 MB",
+      "fileSize": "13.89 GB",
       "date": "2026-06-22",
       "firmwareVersion": "",
       "description": "Download the official Lenovo Legion Y70 2026 XT2611-1 Stock Firmware ROM (Flash File) for your Lenovo Mobile. We also provide all other Lenovo Stock Firmware for free."
@@ -469,18 +481,6 @@
       "date": "2025-03-07",
       "firmwareVersion": "16.0.12.049",
       "description": "Download the official Lenovo Tab TB311XU Stock Firmware ROM (Flash File) for your Lenovo Mobile. We also provide all other Lenovo Stock Firmware."
-    },
-    {
-      "brand": "Lenovo",
-      "deviceName": "Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/lenovo-yoga-tab-plus-tb520fu",
-      "googleDriveUrl": "https://drive.google.com/file/d/1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk/view",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "11.22 GB",
-      "date": "2025-01-21",
-      "firmwareVersion": "16.1.10.027",
-      "description": "Download the official Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File) for your Lenovo Mobile. We also provide all other Lenovo Stock Firmware for free."
     },
     {
       "brand": "Lenovo",
