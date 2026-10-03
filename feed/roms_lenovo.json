@@ -484,6 +484,18 @@
     },
     {
       "brand": "Lenovo",
+      "deviceName": "Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/lenovo-yoga-tab-plus-tb520fu",
+      "googleDriveUrl": "https://drive.google.com/file/d/1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk/view",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "11.22 GB",
+      "date": "2025-01-21",
+      "firmwareVersion": "16.1.10.027",
+      "description": "Download the official Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File) for your Lenovo Mobile. We also provide all other Lenovo Stock Firmware for free."
+    },
+    {
+      "brand": "Lenovo",
       "deviceName": "Lenovo Pad Plus TB-J607F Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/lenovo-pad-plus-tb-j607f",
       "googleDriveUrl": "https://drive.google.com/file/d/1O1u4gElTpwDSs2BXrs_Nuf0cs-Y9edXy/view",
@@ -577,18 +589,6 @@
       "date": "2024-08-29",
       "firmwareVersion": "15.1.083",
       "description": "Download the official Lenovo Tab M11 TB330XUP Stock Firmware ROM (Flash File) for your Lenovo Smartphone. We also provide all Lenovo Stock Firmware for free."
-    },
-    {
-      "brand": "Lenovo",
-      "deviceName": "Lenovo Thinkreality A6 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/lenovo-thinkreality-a6",
-      "googleDriveUrl": "https://drive.google.com/file/d/1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I/view",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1.32 GB",
-      "date": "2024-07-29",
-      "firmwareVersion": "",
-      "description": "Download the official Lenovo Thinkreality A6 Stock Firmware ROM (Flash File) for your Lenovo Mobile. We also provide all other Lenovo Stock Firmware."
     }
   ]
 }

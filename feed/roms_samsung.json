@@ -484,6 +484,18 @@
     },
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-F976B Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-f976b",
+      "googleDriveUrl": "https://drive.google.com/file/d/1oBMvP3b7Eu5Hqx5VWoYAgmQI6FXXgOqB/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1oBMvP3b7Eu5Hqx5VWoYAgmQI6FXXgOqB&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "18.34 GB",
+      "date": "2026-08-10",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-F976B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-F971Z Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-f971z",
       "googleDriveUrl": "https://drive.google.com/file/d/1lQ7hNDApBsx986M5QYenwxZ2_n2Kdssc/view?usp=drive_link",
@@ -577,18 +589,6 @@
       "date": "2026-08-04",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-F971U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-X936B Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-x936b",
-      "googleDriveUrl": "https://drive.google.com/file/d/15bn9W6xZHQ7dDzq2wffcrECAyykqdiVr/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=15bn9W6xZHQ7dDzq2wffcrECAyykqdiVr&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "23.79 GB",
-      "date": "2026-08-03",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-X936B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }

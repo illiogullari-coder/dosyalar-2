@@ -7,7 +7,7 @@
     <link>https://firmwaredrive.com</link>
     <description>Direct download links for Lenovo firmware files. Click any link to download directly without visiting the site.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:26:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:57:31 GMT</lastBuildDate>
     <item>
       <title>Lenovo K30-W Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1sArhPrKViwLIOF1NZGEjyxjQCCNw88Vk&amp;export=download&amp;confirm=t</link>
@@ -689,6 +689,23 @@
       <enclosure url="https://drive.usercontent.google.com/download?id=1RtRjetPa7CIfFBxN4FaAa29n3CPY1eK-&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
     <item>
+      <title>Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File)</title>
+      <link>https://drive.usercontent.google.com/download?id=1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk&amp;export=download&amp;confirm=t</link>
+      <guid isPermaLink="false">Lenovo-lenovo-yoga-tab-plus-tb520fu</guid>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        Device: Lenovo Yoga Tab Plus TB520FU Stock Firmware ROM (Flash File)
+        <br/>Brand: Lenovo
+        <br/>Size: 11.22 GB
+        <br/>Date: 2025-01-21
+        <br/>Version: 16.1.10.027
+        <br/><a href="https://drive.usercontent.google.com/download?id=1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
+        <br/><a href="https://drive.google.com/file/d/1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk/view">Open in Google Drive</a>
+        <br/><a href="https://firmwarefile.com/lenovo-yoga-tab-plus-tb520fu">Source Page</a>
+      ]]></description>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1Vq_S8g3DuIgZTLOVbOjYLby9H1SzVwUk&amp;export=download&amp;confirm=t" type="application/zip" />
+    </item>
+    <item>
       <title>Lenovo Pad Plus TB-J607F Stock Firmware ROM (Flash File)</title>
       <link>https://drive.usercontent.google.com/download?id=1O1u4gElTpwDSs2BXrs_Nuf0cs-Y9edXy&amp;export=download&amp;confirm=t</link>
       <guid isPermaLink="false">Lenovo-lenovo-pad-plus-tb-j607f</guid>
@@ -823,23 +840,6 @@
         <br/><a href="https://firmwarefile.com/lenovo-tab-m11-tb330xup">Source Page</a>
       ]]></description>
       <enclosure url="https://drive.usercontent.google.com/download?id=11jJrXdrVBULGFgmZSpF6Xm89J1Wn8XIJ&amp;export=download&amp;confirm=t" type="application/zip" />
-    </item>
-    <item>
-      <title>Lenovo Thinkreality A6 Stock Firmware ROM (Flash File)</title>
-      <link>https://drive.usercontent.google.com/download?id=1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I&amp;export=download&amp;confirm=t</link>
-      <guid isPermaLink="false">Lenovo-lenovo-thinkreality-a6</guid>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-      <description><![CDATA[
-        Device: Lenovo Thinkreality A6 Stock Firmware ROM (Flash File)
-        <br/>Brand: Lenovo
-        <br/>Size: 1.32 GB
-        <br/>Date: 2024-07-29
-        
-        <br/><a href="https://drive.usercontent.google.com/download?id=1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I&amp;export=download&amp;confirm=t">Direct Download (Google Drive)</a>
-        <br/><a href="https://drive.google.com/file/d/1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I/view">Open in Google Drive</a>
-        <br/><a href="https://firmwarefile.com/lenovo-thinkreality-a6">Source Page</a>
-      ]]></description>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1QAG0BFiHeeccGGOLGf9_DdbyT-9FGe5I&amp;export=download&amp;confirm=t" type="application/zip" />
     </item>
   </channel>
 </rss>
