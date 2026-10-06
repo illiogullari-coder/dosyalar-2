@@ -565,30 +565,6 @@
       "date": "2017-09-17",
       "firmwareVersion": "",
       "description": "Download the official Nubia Z11 Max NX523J Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware for free."
-    },
-    {
-      "brand": "Nubia",
-      "deviceName": "Nubia N1 Lite NX597J Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/nubia-n1-lite-nx597j/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1DE0IdqKIGDZ6-R7ra0GHfjwgcncP1gqN/view",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1DE0IdqKIGDZ6-R7ra0GHfjwgcncP1gqN&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1 GB",
-      "date": "2017-08-29",
-      "firmwareVersion": "6.0",
-      "description": "Download the official Nubia N1 Lite NX597J Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware for free."
-    },
-    {
-      "brand": "Nubia",
-      "deviceName": "Nubia Z9 Mini Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/nubia-z9-mini/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1q76bovmeHjXYES3bdk4ATN8TpUqqMY4I/view",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1q76bovmeHjXYES3bdk4ATN8TpUqqMY4I&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "795 MB",
-      "date": "2016-07-09",
-      "firmwareVersion": "5.0.2",
-      "description": "Download the official Nubia Z9 Mini Stock Firmware ROM (Flash File) for your Nubia Mobile. We also provide all other Nubia Stock Firmware for free."
     }
   ]
 }

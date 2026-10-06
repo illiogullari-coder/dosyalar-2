@@ -577,30 +577,6 @@
       "date": "2022-06-30",
       "firmwareVersion": "",
       "description": "Download Casper VIA A4 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Casper devices."
-    },
-    {
-      "brand": "Casper",
-      "deviceName": "Casper VIA S Stock ROM Firmware (Flash File)",
-      "deviceUrl": "https://naijarom.com/casper-via-s/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1LlIVS388-A_ENBL701qR9VEeUfB8DJes/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1LlIVS388-A_ENBL701qR9VEeUfB8DJes&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "1.56 GB",
-      "date": "2022-06-30",
-      "firmwareVersion": "9.0",
-      "description": "Download Casper VIA S Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Casper devices."
-    },
-    {
-      "brand": "Casper",
-      "deviceName": "Casper VIA S10 Stock ROM Firmware (Flash File)",
-      "deviceUrl": "https://naijarom.com/casper-via-s10/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1Sz2T4tOLEBdhdr63hrz_biIkY3hMuzSG/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Sz2T4tOLEBdhdr63hrz_biIkY3hMuzSG&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "956 MB",
-      "date": "2022-05-23",
-      "firmwareVersion": "",
-      "description": "Download Casper VIA S10 Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Casper devices."
     }
   ]
 }
