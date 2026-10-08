@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-X846B Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-x846b/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1R_CW59D_eAIBLJwSR2ilGijxjVBzLMrx/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1R_CW59D_eAIBLJwSR2ilGijxjVBzLMrx&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "26.7 GB",
+      "date": "2026-10-07",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-X846B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
+      "deviceName": "Samsung SM-X840 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-x840/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1TdjXSAGqoI3YBKyRIFDbQezV8ElL7um5/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1TdjXSAGqoI3YBKyRIFDbQezV8ElL7um5&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "11.62 GB",
+      "date": "2026-10-07",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-X840 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-L7150 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-l7150/",
       "googleDriveUrl": "https://drive.google.com/file/d/1ZjECaWdrdFxRGyOtBot1OBjgN-Crz4Rd/view?usp=drive_link",
@@ -541,30 +565,6 @@
       "date": "2026-08-09",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-A253C Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-A175F Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-a175f/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "6.67 GB",
-      "date": "2026-08-07",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-A175F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-F9710 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-f9710/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "18.55 GB",
-      "date": "2026-08-04",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-F9710 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }

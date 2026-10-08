@@ -5,6 +5,30 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-X846B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-x846b/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1R_CW59D_eAIBLJwSR2ilGijxjVBzLMrx/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1R_CW59D_eAIBLJwSR2ilGijxjVBzLMrx&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "26.7 GB",
+        "date": "2026-10-07",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-X846B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
+        "deviceName": "Samsung SM-X840 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-x840/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1TdjXSAGqoI3YBKyRIFDbQezV8ElL7um5/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1TdjXSAGqoI3YBKyRIFDbQezV8ElL7um5&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "11.62 GB",
+        "date": "2026-10-07",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-X840 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-L7150 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-l7150/",
         "googleDriveUrl": "https://drive.google.com/file/d/1ZjECaWdrdFxRGyOtBot1OBjgN-Crz4Rd/view?usp=drive_link",
@@ -542,30 +566,6 @@
         "date": "2026-08-09",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-A253C Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-A175F Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-a175f/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1EbDX13yLlIx-pw2AV6Q3TyrOskw6Sshb&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "6.67 GB",
-        "date": "2026-08-07",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-A175F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-F9710 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-f9710/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1mRXmMaJiPzykKphzG_xK69zdlLzyZ2CL&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "18.55 GB",
-        "date": "2026-08-04",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-F9710 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
@@ -1720,6 +1720,18 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor Pad 9 HEY2-N09 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-pad-9-hey2-n09/",
+        "googleDriveUrl": "https://drive.google.com/file/d/16_jzBh7wf8SjW8XTO5J8ozMkD3vNtiZP/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=16_jzBh7wf8SjW8XTO5J8ozMkD3vNtiZP&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "4.52 GB",
+        "date": "2026-10-07",
+        "firmwareVersion": "7.2.0.130",
+        "description": "Download the official Honor Pad 9 HEY2-N09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor X6a Plus WDY-LX3 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-x6a-plus-wdy-lx3/",
         "googleDriveUrl": "https://drive.google.com/file/d/1RV9a1eOowtxJPVPNVTL5B0SapYqpTxc9/view?usp=sharing",
@@ -2269,18 +2281,6 @@
         "date": "2026-04-03",
         "firmwareVersion": "8.0.0.183",
         "description": "Download the official Honor X5b Plus GFY-LX3 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X7C ALT-L03 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x7c-alt-l03/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1GjYZOuzbHVrFGytQZ88aaRCmG_ISpR00/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1GjYZOuzbHVrFGytQZ88aaRCmG_ISpR00&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "5.15 GB",
-        "date": "2026-04-03",
-        "firmwareVersion": "8.0.0.174",
-        "description": "Download the official Honor X7C ALT-L03 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
