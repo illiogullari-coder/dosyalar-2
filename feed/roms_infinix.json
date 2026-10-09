@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Infinix",
+      "deviceName": "Infinix Smart 20 X6840C Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/infinix-smart-20-x6840c/",
+      "googleDriveUrl": "https://drive.google.com/file/d/19efDigACQwORpgHunxRo6fC1P5qp935a/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=19efDigACQwORpgHunxRo6fC1P5qp935a&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.7 GB",
+      "date": "2026-10-08",
+      "firmwareVersion": "16.3.0.155SP07",
+      "description": "Download the official Infinix Hot 10 Lite X657B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+    },
+    {
+      "brand": "Infinix",
       "deviceName": "Infinix XPad 30 Pro X1103B Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/infinix-xpad-30-pro-x1103b/",
       "googleDriveUrl": "https://drive.google.com/file/d/1YLeBvYzw_PibACyIBDYpVMlOisDer9n8/view?usp=sharing",
@@ -553,18 +565,6 @@
       "date": "2025-07-16",
       "firmwareVersion": "15.0.3.123",
       "description": "Download the official Infinix Note 50 Pro Plus X6856 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-    },
-    {
-      "brand": "Infinix",
-      "deviceName": "Infinix Note 40 Pro Plus 5G X6851B Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/infinix-note-40-pro-plus-5g-x6851b/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1lBpiPKnpj0FN67BUZEVUZcekokgwsz3X/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1lBpiPKnpj0FN67BUZEVUZcekokgwsz3X&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "15.45 GB",
-      "date": "2025-07-16",
-      "firmwareVersion": "15.0.3.127SP03",
-      "description": "Download the official Infinix Note 40 Pro Plus 5G X6851B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
     }
   ]
 }

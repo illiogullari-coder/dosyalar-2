@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-X940 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-x940/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1om0fi0sAZ9NOt6YrBgFuD-1pGvG9wOm-/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1om0fi0sAZ9NOt6YrBgFuD-1pGvG9wOm-&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "28.17 GB",
+      "date": "2026-10-08",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-X940 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-X846B Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-x846b/",
       "googleDriveUrl": "https://drive.google.com/file/d/1R_CW59D_eAIBLJwSR2ilGijxjVBzLMrx/view?usp=drive_link",
@@ -553,18 +565,6 @@
       "date": "2026-08-10",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-A376E Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-A253C Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-a253c/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1DlNiFIlKLCMqZfE7bawbCfwZnSECPEaQ/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1DlNiFIlKLCMqZfE7bawbCfwZnSECPEaQ&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "6.36 GB",
-      "date": "2026-08-09",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-A253C Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }
