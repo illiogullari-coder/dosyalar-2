@@ -5,6 +5,18 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-X946B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-x946b/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1K-2W5RC9zXACixNxz7JQ1fzjVQraBhVc/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1K-2W5RC9zXACixNxz7JQ1fzjVQraBhVc&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "26.7 GB",
+        "date": "2026-10-14",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-X946B Stock Firmware ROM (Flash File) for your Samsung SM-X946B Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-X940 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-x940/",
         "googleDriveUrl": "https://drive.google.com/file/d/1om0fi0sAZ9NOt6YrBgFuD-1pGvG9wOm-/view?usp=drive_link",
@@ -554,18 +566,6 @@
         "date": "2026-08-10",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-A2560 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-A376E Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-a376e/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1z670WgTft2fk-rP008wHdRfswd_klAOM/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1z670WgTft2fk-rP008wHdRfswd_klAOM&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.27 GB",
-        "date": "2026-08-10",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-A376E Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
