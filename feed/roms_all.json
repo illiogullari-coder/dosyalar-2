@@ -1720,6 +1720,30 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor Pad X7b ONL-W09 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-pad-x7b-onl-w09/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1cI9qcbA3O_CozcrxnEoFlUyq7YPjetfk/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1cI9qcbA3O_CozcrxnEoFlUyq7YPjetfk&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.8 GB",
+        "date": "2026-10-28",
+        "firmwareVersion": "10.0.0.129",
+        "description": "Download the official Honor Pad X7b ONL-W09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor Pad X7b ONL-L09 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-pad-x7b-onl-l09/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1pi-MLK1MKle9mnfJOHrHTrhqmhomshqp/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1pi-MLK1MKle9mnfJOHrHTrhqmhomshqp&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.8 GB",
+        "date": "2026-10-28",
+        "firmwareVersion": "10.0.0.129",
+        "description": "Download the official Honor Pad X7b ONL-L09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor Pad X10 Pro Max YAG-W09 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-pad-x10-pro-max-yag-w09/",
         "googleDriveUrl": "https://drive.google.com/file/d/1flzV6H0Zsrny1Un6qd1XiWwtM2rhMNQJ/view?usp=sharing",
@@ -2257,30 +2281,6 @@
         "date": "2026-04-09",
         "firmwareVersion": "9.0.0.157",
         "description": "Download the official Honor 200 Smart 5G ALT-N31E Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X7c 5G ALT-NX1 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x7c-5g-alt-nx1/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "5.86 GB",
-        "date": "2026-04-09",
-        "firmwareVersion": "9.0.0.157",
-        "description": "Download the official Honor X7c 5G ALT-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-200-smart-alt-nx1/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "5.86 GB",
-        "date": "2026-04-09",
-        "firmwareVersion": "9.0.0.157",
-        "description": "Download the official Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
       }
     ]
   },
@@ -5057,6 +5057,18 @@
     "files": [
       {
         "brand": "Tecno",
+        "deviceName": "Tecno Spark 50S 5G KN8S Stock ROM Firmware (Flash File)",
+        "deviceUrl": "https://naijarom.com/tecno-spark-50s-5g-kn8s/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1t55tf35G6f-fBPdtUj2RTXyQDRXYTv7m/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1t55tf35G6f-fBPdtUj2RTXyQDRXYTv7m&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "8.07 GB",
+        "date": "2026-10-28",
+        "firmwareVersion": "16.3.0.155SP07",
+        "description": "Download Tecno Spark 50S 5G KN8S Stock ROM Firmware (Flash File) without any password for Free. We also provide Stock ROM for other Tecno devices."
+      },
+      {
+        "brand": "Tecno",
         "deviceName": "Tecno Spark 50 Pro KO5 Stock ROM Firmware (Flash File)",
         "deviceUrl": "https://naijarom.com/tecno-spark-50-pro-ko5/",
         "googleDriveUrl": "https://drive.google.com/file/d/1ImS7_RQK7-CRxSpsgIwHtSP1cwsW2TgZ/view?usp=sharing",
@@ -5582,18 +5594,6 @@
         "date": "2025-08-07",
         "firmwareVersion": "15.1.0.105SP09",
         "description": "Download the Tecno Spark Go 2S KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
-      },
-      {
-        "brand": "Tecno",
-        "deviceName": "Tecno Spark Go 2 KM4 Stock ROM Firmware (Flash File)",
-        "deviceUrl": "https://naijarom.com/tecno-spark-go-2-km4/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1S--yntp-JCTVuOQiHhi_qtA9RcYMcmsh&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.80 GB",
-        "date": "2025-08-07",
-        "firmwareVersion": "15.1.0.105SP09",
-        "description": "Download the Tecno Spark Go 2 KM4 Stock ROM Firmware (Flash File) for free without any password. We also provide Stock ROM for other Tecno devices."
       }
     ]
   },

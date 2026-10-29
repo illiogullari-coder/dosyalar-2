@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "Honor",
+      "deviceName": "Honor Pad X7b ONL-W09 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-pad-x7b-onl-w09/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1cI9qcbA3O_CozcrxnEoFlUyq7YPjetfk/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1cI9qcbA3O_CozcrxnEoFlUyq7YPjetfk&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.8 GB",
+      "date": "2026-10-28",
+      "firmwareVersion": "10.0.0.129",
+      "description": "Download the official Honor Pad X7b ONL-W09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+    },
+    {
+      "brand": "Honor",
+      "deviceName": "Honor Pad X7b ONL-L09 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-pad-x7b-onl-l09/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1pi-MLK1MKle9mnfJOHrHTrhqmhomshqp/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1pi-MLK1MKle9mnfJOHrHTrhqmhomshqp&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.8 GB",
+      "date": "2026-10-28",
+      "firmwareVersion": "10.0.0.129",
+      "description": "Download the official Honor Pad X7b ONL-L09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+    },
+    {
+      "brand": "Honor",
       "deviceName": "Honor Pad X10 Pro Max YAG-W09 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/honor-pad-x10-pro-max-yag-w09/",
       "googleDriveUrl": "https://drive.google.com/file/d/1flzV6H0Zsrny1Un6qd1XiWwtM2rhMNQJ/view?usp=sharing",
@@ -541,30 +565,6 @@
       "date": "2026-04-09",
       "firmwareVersion": "9.0.0.157",
       "description": "Download the official Honor 200 Smart 5G ALT-N31E Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor X7c 5G ALT-NX1 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-x7c-5g-alt-nx1/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.86 GB",
-      "date": "2026-04-09",
-      "firmwareVersion": "9.0.0.157",
-      "description": "Download the official Honor X7c 5G ALT-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-200-smart-alt-nx1/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1d2-suBkyPNk4-qUALY3wqaUMl_j6PLHm&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "5.86 GB",
-      "date": "2026-04-09",
-      "firmwareVersion": "9.0.0.157",
-      "description": "Download the official Honor 200 Smart ALT-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
     }
   ]
 }
