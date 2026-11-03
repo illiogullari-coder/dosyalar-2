@@ -1720,6 +1720,42 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor Pad 20 HEY4-W10 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-pad-20-hey4-w10/",
+        "googleDriveUrl": "https://drive.google.com/file/d/13x8CZFBHnTHIIgNmo4sIvfJWQVuxPk5K/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=13x8CZFBHnTHIIgNmo4sIvfJWQVuxPk5K&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "9.67 GB",
+        "date": "2026-11-03",
+        "firmwareVersion": "10.0.0.160",
+        "description": "Download the official Honor Pad 20 HEY4-W10 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor Pad 20 HEY4-W00 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-pad-20-hey4-w00/",
+        "googleDriveUrl": "https://drive.google.com/file/d/11H97XvtezYfxW69aQ4_7RWsqLwb1mEl7/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=11H97XvtezYfxW69aQ4_7RWsqLwb1mEl7&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "9.67 GB",
+        "date": "2026-11-03",
+        "firmwareVersion": "10.0.0.160",
+        "description": "Download the official Honor Pad 20 HEY4-W00 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor 400 Lite BSN-N31 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-400-lite-bsn-n31/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1iaKdN9gWpsYlHSWu6bwrzrXMS0UJEzpy/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iaKdN9gWpsYlHSWu6bwrzrXMS0UJEzpy&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "7.25 GB",
+        "date": "2026-11-03",
+        "firmwareVersion": "10.0.0.115",
+        "description": "Download the official Honor 400 Lite BSN-N31 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor Pad 20 HEY4-W89B Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-pad-20-hey4-w89b/",
         "googleDriveUrl": "https://drive.google.com/file/d/1C8qar6u1bSHHhjojrT82F9uwDhSg484v/view?usp=sharing",
@@ -2245,42 +2281,6 @@
         "date": "2026-04-16",
         "firmwareVersion": "8.0.0.170",
         "description": "Download the official Honor Pad X8A NDL-W09A Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X6B JDY-L43P Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x6b-jdy-l43p/",
-        "googleDriveUrl": "https://drive.google.com/file/d/15_tQx5mnJs2o-mvqasNvmQXjazWlBIIl/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=15_tQx5mnJs2o-mvqasNvmQXjazWlBIIl&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.74 GB",
-        "date": "2026-04-16",
-        "firmwareVersion": "8.0.0.204",
-        "description": "Download the official Honor X6B JDY-L43P Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X6B JDY-LX3P Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x6b-jdy-lx3p/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1tGbjFg4i2GUtthbDu6z5ghSoRRQyU6-L/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1tGbjFg4i2GUtthbDu6z5ghSoRRQyU6-L&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.74 GB",
-        "date": "2026-04-16",
-        "firmwareVersion": "8.0.0.204",
-        "description": "Download the official Honor X6B JDY-LX3P Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X7 CMA-LX3 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x7-cma-lx3/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1ul90enOJ-Mw8mn13ijDoY1pnDpXAAs9V/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1ul90enOJ-Mw8mn13ijDoY1pnDpXAAs9V&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.19 GB",
-        "date": "2026-04-16",
-        "firmwareVersion": "7.1.0.189",
-        "description": "Download the official Honor X7 CMA-LX3 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
