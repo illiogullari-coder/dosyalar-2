@@ -5,6 +5,30 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-A276U Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-a276u/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1tpgyEMYQXwmT2mQ522v2cq-5kgLTojvc/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1tpgyEMYQXwmT2mQ522v2cq-5kgLTojvc&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "8.13 GB",
+        "date": "2026-11-07",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-A276U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
+        "deviceName": "Samsung SM-S942B Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-s942b/",
+        "googleDriveUrl": "https://drive.google.com/file/d/15CyH_uE_qf9fOKmgeHTEHWfYPEkfM99g/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=15CyH_uE_qf9fOKmgeHTEHWfYPEkfM99g&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "18.46 GB",
+        "date": "2026-11-07",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-S942B Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-F971C Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-f971c/",
         "googleDriveUrl": "https://drive.google.com/file/d/1SuPoW1EZjiDWoNahw5lbMW0lI-K9nKuW/view?usp=drive_link",
@@ -542,30 +566,6 @@
         "date": "2026-08-15",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-F776W Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-F776N Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-f776n/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1idnEc4OETT5JiRyIoa-weqV5dY-ifRFZ/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1idnEc4OETT5JiRyIoa-weqV5dY-ifRFZ&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "16.61 GB",
-        "date": "2026-08-14",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-F776N Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-F7760 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-f7760/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1_A7JFn8cF0UoyKzLuuKW3k9KArHHC7wx/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_A7JFn8cF0UoyKzLuuKW3k9KArHHC7wx&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "18.51 GB",
-        "date": "2026-08-14",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-F7760 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
@@ -1720,6 +1720,18 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor 400 Lite ABR-NX1 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-400-lite-abr-nx1/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1iM9hcSq6lXfROlwCsxGs5T2HsATPwkI3/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1iM9hcSq6lXfROlwCsxGs5T2HsATPwkI3&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "6.54 GB",
+        "date": "2026-11-07",
+        "firmwareVersion": "10.0.0.156",
+        "description": "Download the official Honor 400 Lite ABR-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor Pad 20 HEY4-W10 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-pad-20-hey4-w10/",
         "googleDriveUrl": "https://drive.google.com/file/d/13x8CZFBHnTHIIgNmo4sIvfJWQVuxPk5K/view?usp=sharing",
@@ -2269,18 +2281,6 @@
         "date": "2026-04-17",
         "firmwareVersion": "8.0.0.234",
         "description": "Download the official Honor 90 REA-N09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor Pad X8A NDL-W09A Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-pad-x8a-ndl-w09a/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1I2A0YKGUijaVbtUIi4ps6IJVyF1Dx_4V/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1I2A0YKGUijaVbtUIi4ps6IJVyF1Dx_4V&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.27 GB",
-        "date": "2026-04-16",
-        "firmwareVersion": "8.0.0.170",
-        "description": "Download the official Honor Pad X8A NDL-W09A Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
@@ -5603,6 +5603,18 @@
     "files": [
       {
         "brand": "Infinix",
+        "deviceName": "Infinix Smart 20e X6843 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/infinix-smart-20e-x6843/",
+        "googleDriveUrl": "https://drive.google.com/file/d/18EswCwH4lu7mHnOStqv6lMBbwnbAup56/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=18EswCwH4lu7mHnOStqv6lMBbwnbAup56&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "7.66 GB",
+        "date": "2026-11-07",
+        "firmwareVersion": "16.3.0.155SP11",
+        "description": "Download the official Infinix Smart 20e X6843 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+      },
+      {
+        "brand": "Infinix",
         "deviceName": "Infinix Smart 20 X6840C Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/infinix-smart-20-x6840c/",
         "googleDriveUrl": "https://drive.google.com/file/d/19efDigACQwORpgHunxRo6fC1P5qp935a/view?usp=sharing",
@@ -6152,18 +6164,6 @@
         "date": "2025-07-16",
         "firmwareVersion": "15.1.0.115SP02",
         "description": "Download the official Infinix Smart 10 X6725 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-      },
-      {
-        "brand": "Infinix",
-        "deviceName": "Infinix Note 50 Pro Plus X6856 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/infinix-note-50-pro-plus-x6856/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1uMkoF4spYDtTfhzodF-Y3ffNGm2Kg-eF/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1uMkoF4spYDtTfhzodF-Y3ffNGm2Kg-eF&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "8.42 GB",
-        "date": "2025-07-16",
-        "firmwareVersion": "15.0.3.123",
-        "description": "Download the official Infinix Note 50 Pro Plus X6856 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
       }
     ]
   },
