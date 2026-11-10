@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Honor",
+      "deviceName": "Honor X9e Pro BSN-NX1 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/honor-x9e-pro-bsn-nx1/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1QrKWfeb8E5IC_wDFJSxYeMZPA9hzijPI/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1QrKWfeb8E5IC_wDFJSxYeMZPA9hzijPI&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.25 GB",
+      "date": "2026-11-10",
+      "firmwareVersion": "10.0.0.115",
+      "description": "Download the official Honor X9e Pro BSN-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+    },
+    {
+      "brand": "Honor",
       "deviceName": "Honor 400 Lite ABR-NX1 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/honor-400-lite-abr-nx1/",
       "googleDriveUrl": "https://drive.google.com/file/d/1iM9hcSq6lXfROlwCsxGs5T2HsATPwkI3/view?usp=sharing",
@@ -553,18 +565,6 @@
       "date": "2026-04-18",
       "firmwareVersion": "9.0.0.148",
       "description": "Download the official Honor Magic V2 RSR VER-N49DP Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-    },
-    {
-      "brand": "Honor",
-      "deviceName": "Honor 90 REA-N09 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/honor-90-rea-n09/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1xxB59cWDHqLZ5e_TpC5b_h9TrINIB9pd/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1xxB59cWDHqLZ5e_TpC5b_h9TrINIB9pd&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "6.12 GB",
-      "date": "2026-04-17",
-      "firmwareVersion": "8.0.0.234",
-      "description": "Download the official Honor 90 REA-N09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
     }
   ]
 }

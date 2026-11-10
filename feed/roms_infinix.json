@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Infinix",
+      "deviceName": "Infinix Smart 20e X6843B Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/infinix-smart-20e-x6843b/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1nQ64wW4VZaC366XbVbKpOhmPFJmljLvm/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1nQ64wW4VZaC366XbVbKpOhmPFJmljLvm&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.67 GB",
+      "date": "2026-11-10",
+      "firmwareVersion": "16.3.0.155SP11",
+      "description": "Download the official Infinix Smart 20e X6843B Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
+    },
+    {
+      "brand": "Infinix",
       "deviceName": "Infinix Smart 20e X6843 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/infinix-smart-20e-x6843/",
       "googleDriveUrl": "https://drive.google.com/file/d/18EswCwH4lu7mHnOStqv6lMBbwnbAup56/view?usp=sharing",
@@ -553,18 +565,6 @@
       "date": "2025-07-16",
       "firmwareVersion": "15.1.0.108SP01",
       "description": "Download the official Infinix Smart 10 X6725C Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
-    },
-    {
-      "brand": "Infinix",
-      "deviceName": "Infinix Smart 10 X6725 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/infinix-smart-10-x6725/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1duXfC8YgAwyZ_dWCuanGd2toTnLIJxpK/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1duXfC8YgAwyZ_dWCuanGd2toTnLIJxpK&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "4.94 GB",
-      "date": "2025-07-16",
-      "firmwareVersion": "15.1.0.115SP02",
-      "description": "Download the official Infinix Smart 10 X6725 Stock Firmware ROM (Flash File) for your Infinix Mobile. We also provide all other Infinix Stock Firmware for free."
     }
   ]
 }

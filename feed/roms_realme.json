@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Realme",
+      "deviceName": "Realme Narzo 100 Lite 5G RMX5261 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/realme-narzo-100-lite-5g-rmx5261/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1Mad0pmFkvhdoeK5kU3Td-Z2Zd3YdU7Is/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Mad0pmFkvhdoeK5kU3Td-Z2Zd3YdU7Is&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "7.38 GB",
+      "date": "2026-11-10",
+      "firmwareVersion": "16.0.2.442EX01M003",
+      "description": "Download the official Realme Narzo 100 Lite 5G RMX5261 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Stock Firmware for free."
+    },
+    {
+      "brand": "Realme",
       "deviceName": "Realme P4 Lite 5G RMX5261 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/realme-p4-lite-5g-rmx5261/",
       "googleDriveUrl": "https://drive.google.com/file/d/1adNnl5kNWxukWBBkS9_n0I1oVHCJLwgY/view?usp=sharing",
@@ -553,18 +565,6 @@
       "date": "2025-07-28",
       "firmwareVersion": "14.0.0.1501EX01",
       "description": "Download the official Realme 12 Pro Plus 5G RMX3840 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Stock Firmware for free."
-    },
-    {
-      "brand": "Realme",
-      "deviceName": "Realme P3 Ultra 5G RMX5031 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/realme-p3-ultra-5g-rmx5031/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1_nJtsiVeg4o5CxoplppXJ8I8otTycBPo/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1_nJtsiVeg4o5CxoplppXJ8I8otTycBPo&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "13 GB",
-      "date": "2025-07-15",
-      "firmwareVersion": "15.0.0.531EX01",
-      "description": "Download the official Realme P3 Ultra 5G RMX5031 Stock Firmware ROM (Flash File) for your Realme Mobile. We also provide all other Realme Stock Firmware for free."
     }
   ]
 }
