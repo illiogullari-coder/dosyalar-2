@@ -2870,6 +2870,18 @@
     "files": [
       {
         "brand": "OnePlus",
+        "deviceName": "OnePlus Ace 7 PYF110 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/oneplus-ace-7-pyf110/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1yL_cSBxsrgOBwh8u9TNkZujC21XN3PVL/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1yL_cSBxsrgOBwh8u9TNkZujC21XN3PVL&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "12.44 GB",
+        "date": "2026-11-11",
+        "firmwareVersion": "17.0.0.157CN01",
+        "description": "Download the official OnePlus Ace 7 PYF110 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+      },
+      {
+        "brand": "OnePlus",
         "deviceName": "OnePlus 9 LE2110 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/oneplus-9-le2110/",
         "googleDriveUrl": "https://drive.google.com/file/d/1S5TjtqtXDp19TFqF1hXyxOrCSnlxO2j1/view?usp=sharing",
@@ -3419,18 +3431,6 @@
         "date": "2025-07-03",
         "firmwareVersion": "",
         "description": "Download the official OnePlus Watch 3 OWWE251 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
-      },
-      {
-        "brand": "OnePlus",
-        "deviceName": "OnePlus Watch 2R OWWE231 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/oneplus-watch-2r-owwe231/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1SZzDbSKfXy7MIm7q0F2EClCEaOeSLytt/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1SZzDbSKfXy7MIm7q0F2EClCEaOeSLytt&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "2.12 GB",
-        "date": "2025-07-03",
-        "firmwareVersion": "",
-        "description": "Download the official OnePlus Watch 2R OWWE231 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
       }
     ]
   },
