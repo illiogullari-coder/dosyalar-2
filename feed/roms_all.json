@@ -1720,6 +1720,42 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor X9e s MTN-NX1 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-x9e-s-mtn-nx1/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1caltbyo2lkBPcA31hHRweiah1O2BKhQ_/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1caltbyo2lkBPcA31hHRweiah1O2BKhQ_&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "7.72 GB",
+        "date": "2026-11-12",
+        "firmwareVersion": "10.0.0.172",
+        "description": "Download the official Honor X9e s MTN-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor Turbo MTN-NX1 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-turbo-mtn-nx1/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1caltbyo2lkBPcA31hHRweiah1O2BKhQ_/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1caltbyo2lkBPcA31hHRweiah1O2BKhQ_&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "7.72 GB",
+        "date": "2026-11-12",
+        "firmwareVersion": "10.0.0.172",
+        "description": "Download the official Honor Turbo MTN-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
+        "deviceName": "Honor X70 MTN-N21X Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-x70-mtn-n21x/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1jQKTEApUAEY__WFyYDH7X0USZ_s8VNfi/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1jQKTEApUAEY__WFyYDH7X0USZ_s8VNfi&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "7.59 GB",
+        "date": "2026-11-12",
+        "firmwareVersion": "10.0.0.181",
+        "description": "Download the official Honor X70 MTN-N21X Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor X9e Pro BSN-NX1 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-x9e-pro-bsn-nx1/",
         "googleDriveUrl": "https://drive.google.com/file/d/1QrKWfeb8E5IC_wDFJSxYeMZPA9hzijPI/view?usp=sharing",
@@ -2245,42 +2281,6 @@
         "date": "2026-04-27",
         "firmwareVersion": "7.1.0.227",
         "description": "Download the official Honor X9A RMO-NX1 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor 200 Pro ELP-N09 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-200-pro-elp-n09/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1ItWeANZ7n7ZhlU6CDlmsuIG3UXLqNvZ6/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1ItWeANZ7n7ZhlU6CDlmsuIG3UXLqNvZ6&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "7 GB",
-        "date": "2026-04-23",
-        "firmwareVersion": "8.0.0.151",
-        "description": "Download the official Honor 200 Pro ELP-N09 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X8 5G VNE-N41 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x8-5g-vne-n41/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1z_PVFxI3J_TtRyaU_gevWOzbdYOme9TR/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1z_PVFxI3J_TtRyaU_gevWOzbdYOme9TR&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.71 GB",
-        "date": "2026-04-20",
-        "firmwareVersion": "6.1.0.173",
-        "description": "Download the official Honor X8 5G VNE-N41 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor Magic V2 RSR VER-N49DP Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-magic-v2-rsr-ver-n49dp/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1R2ux-402WC6FMZU8yK5VngAMhjnunslw/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1R2ux-402WC6FMZU8yK5VngAMhjnunslw&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "7.38 GB",
-        "date": "2026-04-18",
-        "firmwareVersion": "9.0.0.148",
-        "description": "Download the official Honor Magic V2 RSR VER-N49DP Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },
