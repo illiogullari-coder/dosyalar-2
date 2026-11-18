@@ -5,6 +5,18 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-X846N Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-x846n/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1VssByQ5r0QtHcjVVzHJvDJ19geZyzHGb/view?usp=drive_link",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VssByQ5r0QtHcjVVzHJvDJ19geZyzHGb&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "14 GB",
+        "date": "2026-11-17",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-X846N Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-L355U Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-l355u/",
         "googleDriveUrl": "https://drive.google.com/file/d/1AbJwIMy-3MonvtMmRaK_98dVStDYRuPB/view?usp=drive_link",
@@ -554,18 +566,6 @@
         "date": "2026-08-15",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-R905U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-F976U1 Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-f976u1/",
-        "googleDriveUrl": "https://drive.google.com/file/d/17pZdLcOr9foHo9lP3stg6x2REjzOblN9/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=17pZdLcOr9foHo9lP3stg6x2REjzOblN9&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "16.87 GB",
-        "date": "2026-08-15",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-F976U1 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
@@ -1720,6 +1720,18 @@
     "files": [
       {
         "brand": "Honor",
+        "deviceName": "Honor X6B JDY-LX2 Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/honor-x6b-jdy-lx2/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1krvUhjNDRMZVShWm1laQ-mfNaEr16xC_/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1krvUhjNDRMZVShWm1laQ-mfNaEr16xC_&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "5.4 GB",
+        "date": "2026-11-17",
+        "firmwareVersion": "10.0.0.180",
+        "description": "Download the official Honor X6B JDY-LX2 Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
+      },
+      {
+        "brand": "Honor",
         "deviceName": "Honor Pad 10 HEY3-W00 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/honor-pad-10-hey3-w00/",
         "googleDriveUrl": "https://drive.google.com/file/d/1Osk4IWOAwpFZ-vYqSso-bzASmryHQuCl/view?usp=sharing",
@@ -2269,18 +2281,6 @@
         "date": "2026-06-20",
         "firmwareVersion": "7.1.0.151",
         "description": "Download the official Honor X7 CMA-L43CQ Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware"
-      },
-      {
-        "brand": "Honor",
-        "deviceName": "Honor X9 5G ANY-L03CQ Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/honor-x9-5g-any-l03cq/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1aupkHlghbQxmvuClWwr11Z50ZnaKQ2DK/view?usp=sharing",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1aupkHlghbQxmvuClWwr11Z50ZnaKQ2DK&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "4.10 GB",
-        "date": "2026-05-04",
-        "firmwareVersion": "7.1.0.163",
-        "description": "Download the official Honor X9 5G ANY-L03CQ Stock Firmware ROM (Flash File) for your Honor Mobile. We also provide all other Honor Stock Firmware for free."
       }
     ]
   },

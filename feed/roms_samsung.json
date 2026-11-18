@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-X846N Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-x846n/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1VssByQ5r0QtHcjVVzHJvDJ19geZyzHGb/view?usp=drive_link",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1VssByQ5r0QtHcjVVzHJvDJ19geZyzHGb&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "14 GB",
+      "date": "2026-11-17",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-X846N Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-L355U Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-l355u/",
       "googleDriveUrl": "https://drive.google.com/file/d/1AbJwIMy-3MonvtMmRaK_98dVStDYRuPB/view?usp=drive_link",
@@ -553,18 +565,6 @@
       "date": "2026-08-15",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-R905U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-F976U1 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-f976u1/",
-      "googleDriveUrl": "https://drive.google.com/file/d/17pZdLcOr9foHo9lP3stg6x2REjzOblN9/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=17pZdLcOr9foHo9lP3stg6x2REjzOblN9&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "16.87 GB",
-      "date": "2026-08-15",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-F976U1 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }
