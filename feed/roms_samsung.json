@@ -4,6 +4,18 @@
   "files": [
     {
       "brand": "Samsung",
+      "deviceName": "Samsung SM-A576B-DS Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/samsung-sm-a576b-ds/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1mVd5zJ7TRPVf2oumr4_myVeDC3rWqboL/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1mVd5zJ7TRPVf2oumr4_myVeDC3rWqboL&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "8.78 GB",
+      "date": "2026-11-18",
+      "firmwareVersion": "",
+      "description": "Download the official Samsung SM-A576B-DS Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+    },
+    {
+      "brand": "Samsung",
       "deviceName": "Samsung SM-X846N Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/samsung-sm-x846n/",
       "googleDriveUrl": "https://drive.google.com/file/d/1VssByQ5r0QtHcjVVzHJvDJ19geZyzHGb/view?usp=drive_link",
@@ -553,18 +565,6 @@
       "date": "2026-08-15",
       "firmwareVersion": "",
       "description": "Download the official Samsung SM-R910 Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-    },
-    {
-      "brand": "Samsung",
-      "deviceName": "Samsung SM-R905U Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/samsung-sm-r905u/",
-      "googleDriveUrl": "https://drive.google.com/file/d/10MHMKieF0Z_Il4UJL0j4_Xm-xw3L2lQM/view?usp=drive_link",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=10MHMKieF0Z_Il4UJL0j4_Xm-xw3L2lQM&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "3.3 GB",
-      "date": "2026-08-15",
-      "firmwareVersion": "",
-      "description": "Download the official Samsung SM-R905U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
     }
   ]
 }

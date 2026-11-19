@@ -4,6 +4,30 @@
   "files": [
     {
       "brand": "OnePlus",
+      "deviceName": "OnePlus 8 IN2013 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/oneplus-8-in2013/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1UO_p2_AZ1yPuc7bi4z88TGHw2dA0YvqT/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1UO_p2_AZ1yPuc7bi4z88TGHw2dA0YvqT&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "4.93 GB",
+      "date": "2026-11-18",
+      "firmwareVersion": "13.1.0.582EX01",
+      "description": "Download the official OnePlus 8 IN2013 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+    },
+    {
+      "brand": "OnePlus",
+      "deviceName": "OnePlus 8 IN2011 Stock Firmware ROM (Flash File)",
+      "deviceUrl": "https://firmwarefile.com/oneplus-8-in2011/",
+      "googleDriveUrl": "https://drive.google.com/file/d/1s9DNk8eHq22y2Uo-_4X1XFR_HR6g5GIc/view?usp=sharing",
+      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1s9DNk8eHq22y2Uo-_4X1XFR_HR6g5GIc&export=download&confirm=t",
+      "linkSource": "googledrive",
+      "fileSize": "5.36 GB",
+      "date": "2026-11-18",
+      "firmwareVersion": "13.1.0.582EX01",
+      "description": "Download the official OnePlus 8 IN2011 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
+    },
+    {
+      "brand": "OnePlus",
       "deviceName": "OnePlus Ace 7 PYF110 Stock Firmware ROM (Flash File)",
       "deviceUrl": "https://firmwarefile.com/oneplus-ace-7-pyf110/",
       "googleDriveUrl": "https://drive.google.com/file/d/1yL_cSBxsrgOBwh8u9TNkZujC21XN3PVL/view?usp=sharing",
@@ -541,30 +565,6 @@
       "date": "2025-07-16",
       "firmwareVersion": "",
       "description": "Download the official OnePlus 9 Pro LE2123 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware for free."
-    },
-    {
-      "brand": "OnePlus",
-      "deviceName": "OnePlus 12R 5G CPH2585 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/oneplus-12r-5g-cph2585/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1fESrht6NsCK4FF1hK_W-EDTpYWsgje-D/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1fESrht6NsCK4FF1hK_W-EDTpYWsgje-D&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "7.71 GB",
-      "date": "2025-07-10",
-      "firmwareVersion": "14.0.0.321EX01",
-      "description": "Download the official OnePlus 12R 5G CPH2585 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
-    },
-    {
-      "brand": "OnePlus",
-      "deviceName": "OnePlus Watch 3 OWWE251 Stock Firmware ROM (Flash File)",
-      "deviceUrl": "https://firmwarefile.com/oneplus-watch-3-owwe251/",
-      "googleDriveUrl": "https://drive.google.com/file/d/1oGTZlrS2d5_axD-G-JxMz-O-mEDBYOM7/view?usp=sharing",
-      "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1oGTZlrS2d5_axD-G-JxMz-O-mEDBYOM7&export=download&confirm=t",
-      "linkSource": "googledrive",
-      "fileSize": "2.21 GB",
-      "date": "2025-07-03",
-      "firmwareVersion": "",
-      "description": "Download the official OnePlus Watch 3 OWWE251 Stock Firmware ROM (Flash File) for your OnePlus Mobile. We also provide all other OnePlus Stock Firmware."
     }
   ]
 }
