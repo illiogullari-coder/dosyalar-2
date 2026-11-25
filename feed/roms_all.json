@@ -5,6 +5,18 @@
     "files": [
       {
         "brand": "Samsung",
+        "deviceName": "Samsung SM-L505F Stock Firmware ROM (Flash File)",
+        "deviceUrl": "https://firmwarefile.com/samsung-sm-l505f/",
+        "googleDriveUrl": "https://drive.google.com/file/d/1RQqGQTzSesAsHZqAP35l9QrtyU7aEIn4/view?usp=sharing",
+        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1RQqGQTzSesAsHZqAP35l9QrtyU7aEIn4&export=download&confirm=t",
+        "linkSource": "googledrive",
+        "fileSize": "3.92 GB",
+        "date": "2026-11-25",
+        "firmwareVersion": "",
+        "description": "Download the official Samsung SM-L505F Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
+      },
+      {
+        "brand": "Samsung",
         "deviceName": "Samsung SM-A3760 Stock Firmware ROM (Flash File)",
         "deviceUrl": "https://firmwarefile.com/samsung-sm-a3760/",
         "googleDriveUrl": "https://drive.google.com/file/d/1hy1BrV5TT4klW1xomgGPrmwqD0zSgWH8/view?usp=sharing",
@@ -554,18 +566,6 @@
         "date": "2026-08-19",
         "firmwareVersion": "",
         "description": "Download the official Samsung SM-F976W Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
-      },
-      {
-        "brand": "Samsung",
-        "deviceName": "Samsung SM-R915U Stock Firmware ROM (Flash File)",
-        "deviceUrl": "https://firmwarefile.com/samsung-sm-r915u/",
-        "googleDriveUrl": "https://drive.google.com/file/d/1Q2ufLAP_xOemXWJmAzf3w5p_ZSSJB56A/view?usp=drive_link",
-        "directDownloadUrl": "https://drive.usercontent.google.com/download?id=1Q2ufLAP_xOemXWJmAzf3w5p_ZSSJB56A&export=download&confirm=t",
-        "linkSource": "googledrive",
-        "fileSize": "3.3 GB",
-        "date": "2026-08-15",
-        "firmwareVersion": "",
-        "description": "Download the official Samsung SM-R915U Stock Firmware ROM (Flash File) for your Samsung Mobile. We also provide all other Samsung Stock Firmware for free."
       }
     ]
   },
